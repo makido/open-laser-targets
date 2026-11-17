@@ -88,8 +88,8 @@ format conformance. A future geometry change needs a fresh target identity.
 SOURCES
 
 User photos IMG_6315.HEIC (P25) and IMG_6316.HEIC (P50), plus dimensions and
-scoring clarification confirmed in this conversation. Originals remain in
-Downloads; the package includes the rectified P25 photo for trace review.
+scoring clarification supplied by the target-library owner. Original photos
+and the rectified trace-review photo remain in the local research archive.
 
 Official images and scoring page:
 https://www.ustertagschiessen.ch/Home/Ablauf
@@ -98,7 +98,7 @@ https://www.ustertagschiessen.ch/img/various/50mTarget2018.jpg
 
 Official 2026 programme: P50 group target on PDF page 7; P25 payout on page 9.
 https://www.ustertagschiessen.ch/schiessplan26_A4.pdf
-The separate P50 payout target on page 8 is not either of these practices.
+The separate P50 payout target on page 8 is not either of these reproductions.
 
 BUILD INPUTS
 
