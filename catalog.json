@@ -1,0 +1,236 @@
+{
+  "version": "0.5",
+  "updated": "2026-11-17",
+  "individual_page_order": [
+    "target",
+    "scoring companion"
+  ],
+  "collection": "downloads/target-collection.pdf",
+  "targets": [
+    {
+      "label": "A3005",
+      "name": "A3005",
+      "title": "Gewehr 300 m \u00b7 A5 / A10",
+      "practice": "7.5 m",
+      "pdf": "downloads/A3005.pdf",
+      "svg": "svg/A3005.svg",
+      "scorecard": "scorecards/A3005.svg",
+      "marker_ids": [
+        41,
+        29,
+        16
+      ],
+      "layout": "compact"
+    },
+    {
+      "label": "A30010",
+      "name": "A30010",
+      "title": "Gewehr 300 m \u00b7 A5 / A10",
+      "practice": "7.5 m",
+      "pdf": "downloads/A30010.pdf",
+      "svg": "svg/A30010.svg",
+      "scorecard": "scorecards/A30010.svg",
+      "marker_ids": [
+        29,
+        40,
+        35
+      ],
+      "layout": "compact"
+    },
+    {
+      "label": "B3004",
+      "name": "B3004",
+      "title": "Gewehr 300 m \u00b7 B4 / B10",
+      "practice": "7.5 m",
+      "pdf": "downloads/B3004.pdf",
+      "svg": "svg/B3004.svg",
+      "scorecard": "scorecards/B3004.svg",
+      "marker_ids": [
+        0,
+        44,
+        20
+      ],
+      "layout": "compact"
+    },
+    {
+      "label": "B30010",
+      "name": "B30010",
+      "title": "Gewehr 300 m \u00b7 B4 / B10",
+      "practice": "7.5 m",
+      "pdf": "downloads/B30010.pdf",
+      "svg": "svg/B30010.svg",
+      "scorecard": "scorecards/B30010.svg",
+      "marker_ids": [
+        9,
+        33,
+        49
+      ],
+      "layout": "compact"
+    },
+    {
+      "label": "P5010",
+      "name": "P5010",
+      "title": "Pistole 50 m \u00b7 P4 / P10",
+      "practice": "7.5 m",
+      "pdf": "downloads/P5010.pdf",
+      "svg": "svg/P5010.svg",
+      "scorecard": "scorecards/P5010.svg",
+      "marker_ids": [
+        9,
+        7,
+        22
+      ],
+      "layout": "full"
+    },
+    {
+      "label": "P504",
+      "name": "P504",
+      "title": "Pistole 50 m \u00b7 P4 / P10",
+      "practice": "7.5 m",
+      "pdf": "downloads/P504.pdf",
+      "svg": "svg/P504.svg",
+      "scorecard": "scorecards/P504.svg",
+      "marker_ids": [
+        29,
+        44,
+        22
+      ],
+      "layout": "full"
+    },
+    {
+      "label": "B505",
+      "name": "B505",
+      "title": "Pistole 50 m \u00b7 B5 / B10",
+      "practice": "7.5 m",
+      "pdf": "downloads/B505.pdf",
+      "svg": "svg/B505.svg",
+      "scorecard": "scorecards/B505.svg",
+      "marker_ids": [
+        25,
+        45,
+        32
+      ],
+      "layout": "full"
+    },
+    {
+      "label": "B5010",
+      "name": "B5010",
+      "title": "Pistole 50 m \u00b7 B5 / B10",
+      "practice": "7.5 m",
+      "pdf": "downloads/B5010.pdf",
+      "svg": "svg/B5010.svg",
+      "scorecard": "scorecards/B5010.svg",
+      "marker_ids": [
+        11,
+        10,
+        5
+      ],
+      "layout": "full"
+    },
+    {
+      "label": "CHF50M",
+      "name": "CHF50M",
+      "title": "Pistole 50 m \u00b7 Morgarten F100/5",
+      "practice": "7.5 m",
+      "pdf": "downloads/CHF50M.pdf",
+      "svg": "svg/CHF50M.svg",
+      "scorecard": "scorecards/CHF50M.svg",
+      "marker_ids": [
+        37,
+        49,
+        13
+      ],
+      "layout": "full"
+    },
+    {
+      "label": "ORD25",
+      "name": "ORD25",
+      "title": "Pistole 25 m \u00b7 Ordonnanz / Feldschiessen",
+      "practice": "7.5 m",
+      "pdf": "downloads/ORD25.pdf",
+      "svg": "svg/ORD25.svg",
+      "scorecard": "scorecards/ORD25.svg",
+      "marker_ids": [
+        15,
+        40,
+        11
+      ],
+      "layout": "full"
+    },
+    {
+      "label": "ORD25-5m",
+      "name": "ORD5M",
+      "title": "Pistole 25 m \u00b7 Ordonnanz / Feldschiessen",
+      "practice": "5 m",
+      "pdf": "downloads/ORD25-5m.pdf",
+      "svg": "svg/ORD25-5m.svg",
+      "scorecard": "scorecards/ORD25-5m.svg",
+      "marker_ids": [
+        36,
+        21,
+        11
+      ],
+      "layout": "full"
+    },
+    {
+      "label": "PP25",
+      "name": "PP25",
+      "title": "Pistole 25 m \u00b7 Precision PP10 / ISSF",
+      "practice": "7.5 m",
+      "pdf": "downloads/PP25.pdf",
+      "svg": "svg/PP25.svg",
+      "scorecard": "scorecards/PP25.svg",
+      "marker_ids": [
+        10,
+        3,
+        34
+      ],
+      "layout": "full"
+    },
+    {
+      "label": "RF25",
+      "name": "RF25",
+      "title": "Pistole 25 m \u00b7 Rapid-fire ISSF",
+      "practice": "7.5 m",
+      "pdf": "downloads/RF25.pdf",
+      "svg": "svg/RF25.svg",
+      "scorecard": "scorecards/RF25.svg",
+      "marker_ids": [
+        4,
+        8,
+        45
+      ],
+      "layout": "full"
+    },
+    {
+      "label": "NRAB6",
+      "name": "NRAB6",
+      "title": "NRA B-6 - 50 yard slow fire",
+      "practice": "5 yd",
+      "pdf": "downloads/NRAB6.pdf",
+      "svg": "svg/NRAB6.svg",
+      "scorecard": "scorecards/NRAB6.svg",
+      "marker_ids": [
+        17,
+        44,
+        43
+      ],
+      "layout": "full"
+    },
+    {
+      "label": "NRAB8",
+      "name": "NRAB8",
+      "title": "NRA B-8 - 25 yard timed and rapid fire",
+      "practice": "5 yd",
+      "pdf": "downloads/NRAB8.pdf",
+      "svg": "svg/NRAB8.svg",
+      "scorecard": "scorecards/NRAB8.svg",
+      "marker_ids": [
+        43,
+        20,
+        48
+      ],
+      "layout": "full"
+    }
+  ]
+}

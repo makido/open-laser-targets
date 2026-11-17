@@ -1,0 +1,1 @@
+Open index.html directly in a browser, or upload this entire directory to a static host. Preserve all relative paths. No build step, account, CDN, API, or server-side runtime is required. The PDFs in downloads/ are the printable files; do not print the web page. This catalogue does not implement the doxyo.com/t QR landing service.

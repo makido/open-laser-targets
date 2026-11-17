@@ -1,0 +1,2497 @@
+{
+  "version": "0.5",
+  "delta_sha256": "71952d42c5524a76a4e89a099c197019b10d5502d47d63ba33b47c88291ed408",
+  "sheets": [
+    {
+      "label": "A3005",
+      "name": "A3005",
+      "title": "Gewehr 300 m \u00b7 A5 / A10",
+      "training_distance_m": 7.5,
+      "training_distance_display": "7.5 m",
+      "reference_distance": 300,
+      "reference_unit": "m",
+      "bounds_mm": [
+        86.25,
+        112.87,
+        37.5,
+        41.26
+      ],
+      "angular_width_0_01_moa": 1719,
+      "derived_distance_m": 7.499431954088904,
+      "marker_ids": [
+        41,
+        29,
+        16
+      ],
+      "marker_positions_mm": [
+        [
+          55.0,
+          80.0
+        ],
+        [
+          131.0,
+          80.0
+        ],
+        [
+          55.0,
+          156.0
+        ]
+      ],
+      "marker_size_mm": 24,
+      "protected_regions_mm": [
+        [
+          51.0,
+          76.0,
+          83.0,
+          108.0
+        ],
+        [
+          127.0,
+          76.0,
+          159.0,
+          108.0
+        ],
+        [
+          51.0,
+          152.0,
+          83.0,
+          184.0
+        ],
+        [
+          127.0,
+          134.0,
+          177.0,
+          184.0
+        ]
+      ],
+      "layout": "compact",
+      "frame_mm": [
+        210,
+        279.4
+      ],
+      "page_mm": [
+        210,
+        297
+      ],
+      "frame_offset_mm": [
+        0,
+        8.8
+      ],
+      "qr_version": 10,
+      "qr_error_correction": "M",
+      "qr_module_mm": 0.7692307692307693,
+      "qr_quiet_zone_modules": 4,
+      "url_bytes": 204,
+      "json_bytes": 250,
+      "compressed_bytes": 134,
+      "compressor": "zopfli100",
+      "url": "https://doxyo.com/t#v0.5.eNpVjYEGQzEMRf_lAgiStLftCuw7nodtA3hjY7DZvy9KUYg453C_eKDjnFQJwQXdqp0EV_StFaeYeauSKlWyedkFRyhSVZrGsWTzHdBYVKN6RmVeR5EHeaHHiuD-jsEDgk8kG24QE1OOMjGuM_IhfBWqU6RFVE6eF06dnAv36PffHxU4NUA",
+      "definition": {
+        "n": "A3005",
+        "a": 1719,
+        "b": [
+          8625,
+          11287,
+          3750,
+          4126
+        ],
+        "m": [
+          5500,
+          8000,
+          13100,
+          8000,
+          5500,
+          15600
+        ],
+        "q": [
+          12700,
+          13400
+        ],
+        "r": 300,
+        "du": "m",
+        "z": [
+          [
+            "c",
+            1,
+            10500,
+            13350,
+            1250
+          ],
+          [
+            "c",
+            2,
+            10500,
+            13350,
+            1000
+          ],
+          [
+            "c",
+            3,
+            10500,
+            13350,
+            750
+          ],
+          [
+            "c",
+            4,
+            10500,
+            13350,
+            500
+          ],
+          [
+            "c",
+            5,
+            10500,
+            13350,
+            250
+          ]
+        ]
+      },
+      "geometry_source": "Preserved nominal scoring geometry",
+      "source_kind": "swiss",
+      "source_name": "A3005",
+      "calibration_mm": 50,
+      "svg": "svg/A3005.svg",
+      "scorecard": "scorecards/A3005.svg",
+      "pdf": "downloads/A3005.pdf"
+    },
+    {
+      "label": "A30010",
+      "name": "A30010",
+      "title": "Gewehr 300 m \u00b7 A5 / A10",
+      "training_distance_m": 7.5,
+      "training_distance_display": "7.5 m",
+      "reference_distance": 300,
+      "reference_unit": "m",
+      "bounds_mm": [
+        86.25,
+        112.87,
+        37.5,
+        41.26
+      ],
+      "angular_width_0_01_moa": 1719,
+      "derived_distance_m": 7.499431954088904,
+      "marker_ids": [
+        29,
+        40,
+        35
+      ],
+      "marker_positions_mm": [
+        [
+          55.0,
+          80.0
+        ],
+        [
+          131.0,
+          80.0
+        ],
+        [
+          55.0,
+          156.0
+        ]
+      ],
+      "marker_size_mm": 24,
+      "protected_regions_mm": [
+        [
+          51.0,
+          76.0,
+          83.0,
+          108.0
+        ],
+        [
+          127.0,
+          76.0,
+          159.0,
+          108.0
+        ],
+        [
+          51.0,
+          152.0,
+          83.0,
+          184.0
+        ],
+        [
+          127.0,
+          134.0,
+          177.0,
+          184.0
+        ]
+      ],
+      "layout": "compact",
+      "frame_mm": [
+        210,
+        279.4
+      ],
+      "page_mm": [
+        210,
+        297
+      ],
+      "frame_offset_mm": [
+        0,
+        8.8
+      ],
+      "qr_version": 11,
+      "qr_error_correction": "M",
+      "qr_module_mm": 0.7246376811594203,
+      "qr_quiet_zone_modules": 4,
+      "url_bytes": 236,
+      "json_bytes": 373,
+      "compressed_bytes": 158,
+      "compressor": "zopfli100",
+      "url": "https://doxyo.com/t#v0.5.eNpVT8WBxUAI7YVzBBm_bRvrdlx37f0zEyUeePoLD1DgSBAJoYMfKCcncAMdoV4e9Sni9cn-rGuLbObscZ4nM5e44KOZe1zwwczDqu_NPK76zszTqi82J64GbBdbA7KLWuGsg2ttnjRGRaZYC2DniIOurqBQpNzBvWJ8pSZsfFo-25B8qObwrCji2BCuTV6giP7C7TsUFfk_AE_ITs0",
+      "definition": {
+        "n": "A30010",
+        "z": [
+          [
+            "c",
+            10,
+            10500,
+            13350,
+            125
+          ],
+          [
+            "c",
+            9,
+            10500,
+            13350,
+            250
+          ],
+          [
+            "c",
+            8,
+            10500,
+            13350,
+            375
+          ],
+          [
+            "c",
+            7,
+            10500,
+            13350,
+            500
+          ],
+          [
+            "c",
+            6,
+            10500,
+            13350,
+            625
+          ],
+          [
+            "c",
+            5,
+            10500,
+            13350,
+            750
+          ],
+          [
+            "c",
+            4,
+            10500,
+            13350,
+            875
+          ],
+          [
+            "c",
+            3,
+            10500,
+            13350,
+            1000
+          ],
+          [
+            "c",
+            2,
+            10500,
+            13350,
+            1125
+          ],
+          [
+            "c",
+            1,
+            10500,
+            13350,
+            1250
+          ]
+        ],
+        "b": [
+          8625,
+          11287,
+          3750,
+          4126
+        ],
+        "a": 1719,
+        "m": [
+          5500,
+          8000,
+          13100,
+          8000,
+          5500,
+          15600
+        ],
+        "q": [
+          12700,
+          13400
+        ],
+        "r": 300,
+        "du": "m"
+      },
+      "geometry_source": "Preserved nominal scoring geometry",
+      "source_kind": "swiss",
+      "source_name": "A30010",
+      "calibration_mm": 50,
+      "svg": "svg/A30010.svg",
+      "scorecard": "scorecards/A30010.svg",
+      "pdf": "downloads/A30010.pdf"
+    },
+    {
+      "label": "B3004",
+      "name": "B3004",
+      "title": "Gewehr 300 m \u00b7 B4 / B10",
+      "training_distance_m": 7.5,
+      "training_distance_display": "7.5 m",
+      "reference_distance": 300,
+      "reference_unit": "m",
+      "bounds_mm": [
+        86.25,
+        112.87,
+        37.5,
+        41.26
+      ],
+      "angular_width_0_01_moa": 1719,
+      "derived_distance_m": 7.499431954088904,
+      "marker_ids": [
+        0,
+        44,
+        20
+      ],
+      "marker_positions_mm": [
+        [
+          55.0,
+          80.0
+        ],
+        [
+          131.0,
+          80.0
+        ],
+        [
+          55.0,
+          156.0
+        ]
+      ],
+      "marker_size_mm": 24,
+      "protected_regions_mm": [
+        [
+          51.0,
+          76.0,
+          83.0,
+          108.0
+        ],
+        [
+          127.0,
+          76.0,
+          159.0,
+          108.0
+        ],
+        [
+          51.0,
+          152.0,
+          83.0,
+          184.0
+        ],
+        [
+          127.0,
+          134.0,
+          177.0,
+          184.0
+        ]
+      ],
+      "layout": "compact",
+      "frame_mm": [
+        210,
+        279.4
+      ],
+      "page_mm": [
+        210,
+        297
+      ],
+      "frame_offset_mm": [
+        0,
+        8.8
+      ],
+      "qr_version": 13,
+      "qr_error_correction": "M",
+      "qr_module_mm": 0.6493506493506493,
+      "qr_quiet_zone_modules": 4,
+      "url_bytes": 319,
+      "json_bytes": 490,
+      "compressed_bytes": 220,
+      "compressor": "zopfli100",
+      "url": "https://doxyo.com/t#v0.5.eNpl0Dd6BDEIBeCrzEdNAQiUStf2AZxj6Zzj3Y3YvNvphzdB7wfuocNeIlJAuIJ-XLMYMkstmIoRKks-RbiEzoUbwrdnjuEakJHJiJBTMkIWo1OMhWwsarExvwFMCAcTk5hOnm5l2g-Jq4qF_DSkaa7YGYeo1XUpDZW5eEOk60mSoSqu1nKgaSBVR-MV0vLTKqESsjITz9TqaufckTSSSDamtR8plodkIZnXcATz4nSjuFHoKcKd921jWilWvDjGkC0TeerJUywlEhqTZ-jJCTdv0OEO_v4BhUJi3Q",
+      "definition": {
+        "n": "B3004",
+        "b": [
+          8625,
+          11287,
+          3750,
+          4126
+        ],
+        "a": 1719,
+        "z": [
+          [
+            "c",
+            1,
+            10500,
+            13350,
+            1250
+          ],
+          [
+            "c",
+            2,
+            10500,
+            13350,
+            875
+          ],
+          [
+            "d",
+            3,
+            "M 10254 12597 L 10252 12825 L 10128 12843 L 10122 12851 L 10098 12851 L 10040 12871 L 10010 12871 L 10004 12851 L 10002 12882 L 9962 12894 L 9938 12914 L 9938 13843 L 10142 13847 L 10572 13841 L 10598 13847 L 11058 13847 L 11058 12902 L 10910 12851 L 10756 12821 L 10752 12597 Z"
+          ],
+          [
+            "c",
+            4,
+            10500,
+            13350,
+            250
+          ]
+        ],
+        "m": [
+          5500,
+          8000,
+          13100,
+          8000,
+          5500,
+          15600
+        ],
+        "q": [
+          12700,
+          13400
+        ],
+        "r": 300,
+        "du": "m"
+      },
+      "geometry_source": "Preserved bitmap-derived training trace",
+      "source_kind": "swiss",
+      "source_name": "B3004",
+      "calibration_mm": 50,
+      "svg": "svg/B3004.svg",
+      "scorecard": "scorecards/B3004.svg",
+      "pdf": "downloads/B3004.pdf"
+    },
+    {
+      "label": "B30010",
+      "name": "B30010",
+      "title": "Gewehr 300 m \u00b7 B4 / B10",
+      "training_distance_m": 7.5,
+      "training_distance_display": "7.5 m",
+      "reference_distance": 300,
+      "reference_unit": "m",
+      "bounds_mm": [
+        86.25,
+        112.87,
+        37.5,
+        41.26
+      ],
+      "angular_width_0_01_moa": 1719,
+      "derived_distance_m": 7.499431954088904,
+      "marker_ids": [
+        9,
+        33,
+        49
+      ],
+      "marker_positions_mm": [
+        [
+          55.0,
+          80.0
+        ],
+        [
+          131.0,
+          80.0
+        ],
+        [
+          55.0,
+          156.0
+        ]
+      ],
+      "marker_size_mm": 24,
+      "protected_regions_mm": [
+        [
+          51.0,
+          76.0,
+          83.0,
+          108.0
+        ],
+        [
+          127.0,
+          76.0,
+          159.0,
+          108.0
+        ],
+        [
+          51.0,
+          152.0,
+          83.0,
+          184.0
+        ],
+        [
+          127.0,
+          134.0,
+          177.0,
+          184.0
+        ]
+      ],
+      "layout": "compact",
+      "frame_mm": [
+        210,
+        279.4
+      ],
+      "page_mm": [
+        210,
+        297
+      ],
+      "frame_offset_mm": [
+        0,
+        8.8
+      ],
+      "qr_version": 11,
+      "qr_error_correction": "M",
+      "qr_module_mm": 0.7246376811594203,
+      "qr_quiet_zone_modules": 4,
+      "url_bytes": 236,
+      "json_bytes": 373,
+      "compressed_bytes": 158,
+      "compressor": "zopfli100",
+      "url": "https://doxyo.com/t#v0.5.eNpVT8WBxUAI7YVzBBk_bhnrdlx37f0zEyUeePoLD1DgSBAJoYMfKCcncAMdoV4e9Sni9cn-rGuLbObscZ4nM5e44KOZe1zwwczDqu_NPK76zszTqi82J64GbBdbA7KLWuGsg2ttnjRGRaZYC2DniIOurqBQpNzBvWJ8pSZsfFo-25B8qObwrCji2BCuTV6giP7C7TsUFfk_AFE3Ts4",
+      "definition": {
+        "n": "B30010",
+        "z": [
+          [
+            "c",
+            10,
+            10500,
+            13350,
+            125
+          ],
+          [
+            "c",
+            9,
+            10500,
+            13350,
+            250
+          ],
+          [
+            "c",
+            8,
+            10500,
+            13350,
+            375
+          ],
+          [
+            "c",
+            7,
+            10500,
+            13350,
+            500
+          ],
+          [
+            "c",
+            6,
+            10500,
+            13350,
+            625
+          ],
+          [
+            "c",
+            5,
+            10500,
+            13350,
+            750
+          ],
+          [
+            "c",
+            4,
+            10500,
+            13350,
+            875
+          ],
+          [
+            "c",
+            3,
+            10500,
+            13350,
+            1000
+          ],
+          [
+            "c",
+            2,
+            10500,
+            13350,
+            1125
+          ],
+          [
+            "c",
+            1,
+            10500,
+            13350,
+            1250
+          ]
+        ],
+        "b": [
+          8625,
+          11287,
+          3750,
+          4126
+        ],
+        "a": 1719,
+        "m": [
+          5500,
+          8000,
+          13100,
+          8000,
+          5500,
+          15600
+        ],
+        "q": [
+          12700,
+          13400
+        ],
+        "r": 300,
+        "du": "m"
+      },
+      "geometry_source": "Preserved bitmap-derived training trace",
+      "source_kind": "swiss",
+      "source_name": "B30010",
+      "calibration_mm": 50,
+      "svg": "svg/B30010.svg",
+      "scorecard": "scorecards/B30010.svg",
+      "pdf": "downloads/B30010.pdf"
+    },
+    {
+      "label": "P5010",
+      "name": "P5010",
+      "title": "Pistole 50 m \u00b7 P4 / P10",
+      "training_distance_m": 7.5,
+      "training_distance_display": "7.5 m",
+      "reference_distance": 50,
+      "reference_unit": "m",
+      "bounds_mm": [
+        30.0,
+        58.5,
+        150.0,
+        150.0
+      ],
+      "angular_width_0_01_moa": 6875,
+      "derived_distance_m": 7.500288425264676,
+      "marker_ids": [
+        9,
+        7,
+        22
+      ],
+      "marker_positions_mm": [
+        [
+          10.0,
+          10.0
+        ],
+        [
+          176.0,
+          10.0
+        ],
+        [
+          10.0,
+          245.4
+        ]
+      ],
+      "marker_size_mm": 24,
+      "protected_regions_mm": [
+        [
+          6.0,
+          6.0,
+          38.0,
+          38.0
+        ],
+        [
+          172.0,
+          6.0,
+          204.0,
+          38.0
+        ],
+        [
+          6.0,
+          241.4,
+          38.0,
+          273.4
+        ],
+        [
+          150.0,
+          219.4,
+          200.0,
+          269.4
+        ]
+      ],
+      "layout": "full",
+      "frame_mm": [
+        210,
+        279.4
+      ],
+      "page_mm": [
+        210,
+        297
+      ],
+      "frame_offset_mm": [
+        0,
+        8.8
+      ],
+      "qr_version": 11,
+      "qr_error_correction": "M",
+      "qr_module_mm": 0.7246376811594203,
+      "qr_quiet_zone_modules": 4,
+      "url_bytes": 228,
+      "json_bytes": 378,
+      "compressed_bytes": 152,
+      "compressor": "zopfli100",
+      "url": "https://doxyo.com/t#v0.5.eNpUzTEOAiEQheG7vHqKN8DALqewJ1uotSZa6uUVsoRM84r5Jvm_eKLiYlRC8EFtDXeIitJI0RiNUow8ZEBwkItNiB7ICcmBBZtgDtJqZAdxNYqH1dgchNXYHehqKJ30xiG4obZIUmw738_92xU1b8UED9SmQ8aU3JdzQrLU31_9y8ZF93F5oxoFv6WUKlkBzagFAMg-T6k",
+      "definition": {
+        "n": "P5010",
+        "z": [
+          [
+            "c",
+            1,
+            10500,
+            13350,
+            7500
+          ],
+          [
+            "c",
+            2,
+            10500,
+            13350,
+            6750
+          ],
+          [
+            "c",
+            3,
+            10500,
+            13350,
+            6000
+          ],
+          [
+            "c",
+            4,
+            10500,
+            13350,
+            5250
+          ],
+          [
+            "c",
+            5,
+            10500,
+            13350,
+            4500
+          ],
+          [
+            "c",
+            6,
+            10500,
+            13350,
+            3750
+          ],
+          [
+            "c",
+            7,
+            10500,
+            13350,
+            3000
+          ],
+          [
+            "c",
+            8,
+            10500,
+            13350,
+            2250
+          ],
+          [
+            "c",
+            9,
+            10500,
+            13350,
+            1500
+          ],
+          [
+            "c",
+            10,
+            10500,
+            13350,
+            750
+          ]
+        ],
+        "b": [
+          3000,
+          5850,
+          15000,
+          15000
+        ],
+        "a": 6875,
+        "m": [
+          1000,
+          1000,
+          17600,
+          1000,
+          1000,
+          24540
+        ],
+        "q": [
+          15000,
+          21940
+        ],
+        "r": 50,
+        "du": "m"
+      },
+      "geometry_source": "Preserved nominal scoring geometry",
+      "source_kind": "swiss",
+      "source_name": "P5010",
+      "calibration_mm": 50,
+      "svg": "svg/P5010.svg",
+      "scorecard": "scorecards/P5010.svg",
+      "pdf": "downloads/P5010.pdf"
+    },
+    {
+      "label": "P504",
+      "name": "P504",
+      "title": "Pistole 50 m \u00b7 P4 / P10",
+      "training_distance_m": 7.5,
+      "training_distance_display": "7.5 m",
+      "reference_distance": 50,
+      "reference_unit": "m",
+      "bounds_mm": [
+        30.0,
+        58.5,
+        150.0,
+        150.0
+      ],
+      "angular_width_0_01_moa": 6875,
+      "derived_distance_m": 7.500288425264676,
+      "marker_ids": [
+        29,
+        44,
+        22
+      ],
+      "marker_positions_mm": [
+        [
+          10.0,
+          10.0
+        ],
+        [
+          176.0,
+          10.0
+        ],
+        [
+          10.0,
+          245.4
+        ]
+      ],
+      "marker_size_mm": 24,
+      "protected_regions_mm": [
+        [
+          6.0,
+          6.0,
+          38.0,
+          38.0
+        ],
+        [
+          172.0,
+          6.0,
+          204.0,
+          38.0
+        ],
+        [
+          6.0,
+          241.4,
+          38.0,
+          273.4
+        ],
+        [
+          150.0,
+          219.4,
+          200.0,
+          269.4
+        ]
+      ],
+      "layout": "full",
+      "frame_mm": [
+        210,
+        279.4
+      ],
+      "page_mm": [
+        210,
+        297
+      ],
+      "frame_offset_mm": [
+        0,
+        8.8
+      ],
+      "qr_version": 10,
+      "qr_error_correction": "M",
+      "qr_module_mm": 0.7692307692307693,
+      "qr_quiet_zone_modules": 4,
+      "url_bytes": 189,
+      "json_bytes": 227,
+      "compressed_bytes": 123,
+      "compressor": "zopfli100",
+      "url": "https://doxyo.com/t#v0.5.eNpVTcUBAjEQ7GXeJ_GErYI3bk_ctXc2i148ozcsQWh75VDgCup2MUWhC628UoW21qsi8rNfCGEahPsRtkEY4z-EaxA6O_oFJtxkFcM-vdH3ydwYFFL0BRYs0sLIEQOfv79x3mX5Jqu8ILolyBbEoZgdQJzxeAJ4LTBo",
+      "definition": {
+        "n": "P504",
+        "z": [
+          [
+            "c",
+            1,
+            10500,
+            13350,
+            7500
+          ],
+          [
+            "c",
+            2,
+            10500,
+            13350,
+            4500
+          ],
+          [
+            "c",
+            3,
+            10500,
+            13350,
+            2250
+          ],
+          [
+            "c",
+            4,
+            10500,
+            13350,
+            1500
+          ]
+        ],
+        "b": [
+          3000,
+          5850,
+          15000,
+          15000
+        ],
+        "a": 6875,
+        "m": [
+          1000,
+          1000,
+          17600,
+          1000,
+          1000,
+          24540
+        ],
+        "q": [
+          15000,
+          21940
+        ],
+        "r": 50,
+        "du": "m"
+      },
+      "geometry_source": "Preserved nominal scoring geometry",
+      "source_kind": "swiss",
+      "source_name": "P504",
+      "calibration_mm": 50,
+      "svg": "svg/P504.svg",
+      "scorecard": "scorecards/P504.svg",
+      "pdf": "downloads/P504.pdf"
+    },
+    {
+      "label": "B505",
+      "name": "B505",
+      "title": "Pistole 50 m \u00b7 B5 / B10",
+      "training_distance_m": 7.5,
+      "training_distance_display": "7.5 m",
+      "reference_distance": 50,
+      "reference_unit": "m",
+      "bounds_mm": [
+        29.25,
+        57.75,
+        151.5,
+        151.5
+      ],
+      "angular_width_0_01_moa": 6944,
+      "derived_distance_m": 7.500013354711309,
+      "marker_ids": [
+        25,
+        45,
+        32
+      ],
+      "marker_positions_mm": [
+        [
+          10.0,
+          10.0
+        ],
+        [
+          176.0,
+          10.0
+        ],
+        [
+          10.0,
+          245.4
+        ]
+      ],
+      "marker_size_mm": 24,
+      "protected_regions_mm": [
+        [
+          6.0,
+          6.0,
+          38.0,
+          38.0
+        ],
+        [
+          172.0,
+          6.0,
+          204.0,
+          38.0
+        ],
+        [
+          6.0,
+          241.4,
+          38.0,
+          273.4
+        ],
+        [
+          150.0,
+          219.4,
+          200.0,
+          269.4
+        ]
+      ],
+      "layout": "full",
+      "frame_mm": [
+        210,
+        279.4
+      ],
+      "page_mm": [
+        210,
+        297
+      ],
+      "frame_offset_mm": [
+        0,
+        8.8
+      ],
+      "qr_version": 13,
+      "qr_error_correction": "M",
+      "qr_module_mm": 0.6493506493506493,
+      "qr_quiet_zone_modules": 4,
+      "url_bytes": 297,
+      "json_bytes": 393,
+      "compressed_bytes": 204,
+      "compressor": "zopfli100",
+      "url": "https://doxyo.com/t#v0.5.eNpVTjV6BiEQvQrf1FMw8nZgy9TJAeJaxl3vHuD3FXg28kP3NNMeMojpkuapujNd0XysVcGIAAsEeXGeMt01T3LOvDhiaueGq8N76qmnMBSpQ3mmGZnp5q3NuyOm75Y4pmtiYcno9WbIHA2e8jB0x4BiGDfExnSQapZIxaSk_QWuk3VcatSGIzr2glQD1nAIPEkWiUEMnYSvHZTRSqz4tM2mEQQGg2uqtVgnmlVWg0Sqo21jkY5oub7vrK9j_WFgxxBRnJ7-_QP9nlEO",
+      "definition": {
+        "n": "B505",
+        "a": 6944,
+        "b": [
+          2925,
+          5775,
+          15150,
+          15150
+        ],
+        "m": [
+          1000,
+          1000,
+          17600,
+          1000,
+          1000,
+          24540
+        ],
+        "q": [
+          15000,
+          21940
+        ],
+        "r": 50,
+        "du": "m",
+        "z": [
+          [
+            "c",
+            1,
+            10500,
+            13350,
+            7500
+          ],
+          [
+            "c",
+            2,
+            10500,
+            13350,
+            5250
+          ],
+          [
+            "d",
+            3,
+            "M 9017 8318 L 9017 9638 L 8979 9677 L 8485 9753 L 7154 10117 L 7135 10174 L 7154 15818 L 13846 15818 L 13865 10155 L 13542 9983 L 12021 9677 L 11945 8337 Z"
+          ],
+          [
+            "c",
+            4,
+            10500,
+            13350,
+            2250
+          ],
+          [
+            "c",
+            5,
+            10500,
+            13350,
+            1125
+          ]
+        ]
+      },
+      "geometry_source": "Preserved bitmap-derived training trace",
+      "source_kind": "swiss",
+      "source_name": "B505",
+      "calibration_mm": 50,
+      "svg": "svg/B505.svg",
+      "scorecard": "scorecards/B505.svg",
+      "pdf": "downloads/B505.pdf"
+    },
+    {
+      "label": "B5010",
+      "name": "B5010",
+      "title": "Pistole 50 m \u00b7 B5 / B10",
+      "training_distance_m": 7.5,
+      "training_distance_display": "7.5 m",
+      "reference_distance": 50,
+      "reference_unit": "m",
+      "bounds_mm": [
+        29.25,
+        57.75,
+        151.5,
+        151.5
+      ],
+      "angular_width_0_01_moa": 6944,
+      "derived_distance_m": 7.500013354711309,
+      "marker_ids": [
+        11,
+        10,
+        5
+      ],
+      "marker_positions_mm": [
+        [
+          10.0,
+          10.0
+        ],
+        [
+          176.0,
+          10.0
+        ],
+        [
+          10.0,
+          245.4
+        ]
+      ],
+      "marker_size_mm": 24,
+      "protected_regions_mm": [
+        [
+          6.0,
+          6.0,
+          38.0,
+          38.0
+        ],
+        [
+          172.0,
+          6.0,
+          204.0,
+          38.0
+        ],
+        [
+          6.0,
+          241.4,
+          38.0,
+          273.4
+        ],
+        [
+          150.0,
+          219.4,
+          200.0,
+          269.4
+        ]
+      ],
+      "layout": "full",
+      "frame_mm": [
+        210,
+        279.4
+      ],
+      "page_mm": [
+        210,
+        297
+      ],
+      "frame_offset_mm": [
+        0,
+        8.8
+      ],
+      "qr_version": 11,
+      "qr_error_correction": "M",
+      "qr_module_mm": 0.7246376811594203,
+      "qr_quiet_zone_modules": 4,
+      "url_bytes": 232,
+      "json_bytes": 378,
+      "compressed_bytes": 155,
+      "compressor": "zopfli100",
+      "url": "https://doxyo.com/t#v0.5.eNpVzTdyBSAMBNC7bK1iBSwYSh_DOZXOOZ7dP39GZPQ0sz-4x8Ch6IThCuM49SRTazKXi5vz1HCJUXsphu9l0zGuYW5OkeY5i9ZEntoaUoDatIMcgdxBCaCkHShAmRk1QJ4ZLcLMOAiQZkYP4DPDGWSVcWq4wzh2krY5Wl2e85-KCk8NT6surSve15VnDNFw84aBO_wtANOnT7k",
+      "definition": {
+        "n": "B5010",
+        "b": [
+          2925,
+          5775,
+          15150,
+          15150
+        ],
+        "a": 6944,
+        "z": [
+          [
+            "c",
+            1,
+            10500,
+            13350,
+            7500
+          ],
+          [
+            "c",
+            2,
+            10500,
+            13350,
+            6750
+          ],
+          [
+            "c",
+            3,
+            10500,
+            13350,
+            6000
+          ],
+          [
+            "c",
+            4,
+            10500,
+            13350,
+            5250
+          ],
+          [
+            "c",
+            5,
+            10500,
+            13350,
+            4500
+          ],
+          [
+            "c",
+            6,
+            10500,
+            13350,
+            3750
+          ],
+          [
+            "c",
+            7,
+            10500,
+            13350,
+            3000
+          ],
+          [
+            "c",
+            8,
+            10500,
+            13350,
+            2250
+          ],
+          [
+            "c",
+            9,
+            10500,
+            13350,
+            1500
+          ],
+          [
+            "c",
+            10,
+            10500,
+            13350,
+            750
+          ]
+        ],
+        "m": [
+          1000,
+          1000,
+          17600,
+          1000,
+          1000,
+          24540
+        ],
+        "q": [
+          15000,
+          21940
+        ],
+        "r": 50,
+        "du": "m"
+      },
+      "geometry_source": "Preserved bitmap-derived training trace",
+      "source_kind": "swiss",
+      "source_name": "B5010",
+      "calibration_mm": 50,
+      "svg": "svg/B5010.svg",
+      "scorecard": "scorecards/B5010.svg",
+      "pdf": "downloads/B5010.pdf"
+    },
+    {
+      "label": "CHF50M",
+      "name": "CHF50M",
+      "title": "Pistole 50 m \u00b7 Morgarten F100/5",
+      "training_distance_m": 7.5,
+      "training_distance_display": "7.5 m",
+      "reference_distance": 50,
+      "reference_unit": "m",
+      "bounds_mm": [
+        71.25,
+        58.5,
+        67.5,
+        150.0
+      ],
+      "angular_width_0_01_moa": 3094,
+      "derived_distance_m": 7.499881728320657,
+      "marker_ids": [
+        37,
+        49,
+        13
+      ],
+      "marker_positions_mm": [
+        [
+          10.0,
+          10.0
+        ],
+        [
+          176.0,
+          10.0
+        ],
+        [
+          10.0,
+          245.4
+        ]
+      ],
+      "marker_size_mm": 24,
+      "protected_regions_mm": [
+        [
+          6.0,
+          6.0,
+          38.0,
+          38.0
+        ],
+        [
+          172.0,
+          6.0,
+          204.0,
+          38.0
+        ],
+        [
+          6.0,
+          241.4,
+          38.0,
+          273.4
+        ],
+        [
+          150.0,
+          219.4,
+          200.0,
+          269.4
+        ]
+      ],
+      "layout": "full",
+      "frame_mm": [
+        210,
+        279.4
+      ],
+      "page_mm": [
+        210,
+        297
+      ],
+      "frame_offset_mm": [
+        0,
+        8.8
+      ],
+      "qr_version": 29,
+      "qr_error_correction": "M",
+      "qr_module_mm": 0.3546099290780142,
+      "qr_quiet_zone_modules": 4,
+      "url_bytes": 1211,
+      "json_bytes": 2109,
+      "compressed_bytes": 889,
+      "compressor": "zopfli100",
+      "url": "https://doxyo.com/t#v0.5.eNpdkUWyKDcMRbfi6vEHMbxhGBcQxmGYce_RVeXhpOtc97FlWX9f310316tvveH0_vXs-uK6UWp7dn153XyULP7My-lZ5HzYieiTZ9e384sHn-2HM-4QHzE3WD_C8l3h3pWfrps55fr61yn47dT6a4yPrq-vZ_zsev9UGR8UO-8tn4oOcFrMRwQsbsPhw9lJI3KAWfw0hd2yUO1BrJVPE7Mpbyrjh0kUieJBUs0H-1T6LjVpbSiK--CWp9oMQaDhshu85LYL5q7RIvkubN8fXp882_cQvEeybM2kbcrk__DqSWWeQMYnrfsw4dxM1kEThlKKdTHFO9kgJZ9iztNNMUYJ0-nsPKVUp6P5lLGc9mb89xjXtDCAMZXsVEuc5v3PxCOXCe5Vgk6JDksKn85SKFI9fkccVvLCntBhIR_WaEhqFpOiezgytjMaLuedx92bP01Vt8l1E85DJTrcFfDL5AhlJl7GGew5VlMTAvPJjho_U08yXq2y9slZfMODwSgGwxqWhy3Dtt6mkO2MsCeztnbV7i9YnIrUFMMeDe4a1o7DTbkWM9ckxk4qoWExHXbh5a1I3IGkdrpiN-Sgpw-SCvpTF5RQOs1Bg5lyqjMGgzGdbNw4g-ik1ijBJYPp6M0Lyq6rdIxthp7GbjI-TNmNQtw1ITJPa8igB5_2VSwVSu2AVfHlhC62JgfYIaFd34QHYuXdocPGcM0LFgcbdhqsrBiOfex23zMUlpI0Lqu846n5KvGjwd2N1HakYtb7h7FfTOywh9swkx8OdMVsMZxCAYuVcpJq7o1t2BzDaqNhF9u-ihwpbTiCwe3bfS43LPR694d92ex0Vwxa7kxLBfVaTwfElPLTHjXIgXOqnXFZ6VOegx7mQLubaXnlYc3MsVsOSzqdzgKybqGCL5R8upOAOynCMo-6NxZOJLVhjQCTbF-57GuF2aYeziiw5nDVWrndMwmqk_IwWw0z6bBEgkthCQnuUoQ10-2i89Hs7qbqO1UW5208topgj3PxMCUYtxtkGW4yWBS6SXnYncARwxYGdlpL25GMwGpg8mFJrFfC6paY4F2nt3dnk0EolsJQsmKCEo2NYlp7jIYPe8cWM06kMnAsRw27MDh5LW_eRMPhBW4fTpHhkLUmBqpYDwvlFmcwdlgUryVBk5IC7MtKDx8UT_3Jv_8BL6GXMg",
+      "definition": {
+        "n": "CHF50M",
+        "a": 3094,
+        "b": [
+          7125,
+          5850,
+          6750,
+          15000
+        ],
+        "m": [
+          1000,
+          1000,
+          17600,
+          1000,
+          1000,
+          24540
+        ],
+        "q": [
+          15000,
+          21940
+        ],
+        "r": 50,
+        "du": "m",
+        "z": [
+          [
+            "d",
+            1,
+            "M 8841 5850 L 8841 8696 L 8746 8722 L 8254 8765 L 7970 8816 L 7125 9064 L 7125 20850 L 13875 20850 L 13875 11431 L 13841 11431 L 13823 11406 L 13823 11337 L 13875 11329 L 13875 9038 L 13806 9038 L 13547 8944 L 12875 8765 L 12582 8722 L 11987 8671 L 11987 5850 Z"
+          ],
+          [
+            "d",
+            2,
+            "M 7125 11370 L 7142 11370 C 7311 11041 7499 10722 7713 10421 C 7839 10243 7974 10071 8117 9906 C 8210 9797 8308 9691 8412 9591 C 8567 9438 8740 9304 8926 9191 C 10112 8422 11825 8700 12721 9783 C 12896 9966 13058 10163 13205 10369 C 13446 10699 13676 11040 13851 11409 L 13875 11409 L 13875 18809 L 13853 18809 C 13050 19865 11842 20777 10451 20757 C 9090 20711 7968 19773 7139 18780 L 7125 18780 Z"
+          ],
+          [
+            "d",
+            3,
+            "M 13647 14764 C 13647 16263 13025 17785 11888 18788 C 11738 18906 11569 18998 11396 19078 C 11118 19188 10820 19243 10521 19244 C 10196 19234 9868 19174 9575 19032 C 9352 18930 9160 18772 8976 18613 C 7963 17600 7380 16182 7375 14758 C 7380 13296 7944 11800 9041 10799 C 9198 10677 9362 10561 9541 10473 C 9846 10336 10178 10242 10516 10253 C 10825 10256 11131 10333 11412 10458 C 11614 10546 11786 10685 11955 10823 C 13029 11831 13648 13301 13647 14764 Z"
+          ],
+          [
+            "d",
+            4,
+            "M 12449 14761 C 12424 15654 12105 16561 11465 17206 C 11307 17337 11134 17453 10940 17524 C 10805 17574 10661 17595 10517 17599 C 10333 17595 10153 17544 9986 17472 C 9832 17393 9695 17285 9568 17169 C 8951 16529 8571 15645 8574 14758 C 8587 13777 8992 12750 9782 12132 C 9874 12071 9970 12016 10074 11978 C 10217 11934 10366 11902 10517 11905 C 10644 11909 10768 11937 10887 11979 C 11022 12031 11148 12103 11267 12183 C 12020 12807 12437 13797 12449 14761 Z"
+          ],
+          [
+            "d",
+            5,
+            "M 11251 14756 C 11237 15181 11077 15644 10712 15904 C 10632 15931 10550 15966 10464 15950 C 10395 15940 10334 15905 10275 15870 C 9926 15598 9768 15142 9775 14721 C 9786 14300 9950 13805 10365 13596 C 10417 13584 10467 13568 10521 13571 C 10591 13570 10658 13595 10722 13621 C 11076 13849 11207 14301 11258 14681 C 11260 14706 11250 14730 11251 14756 Z"
+          ]
+        ]
+      },
+      "geometry_source": "Preserved bitmap-derived training trace",
+      "source_kind": "swiss",
+      "source_name": "CHF50M",
+      "calibration_mm": 50,
+      "svg": "svg/CHF50M.svg",
+      "scorecard": "scorecards/CHF50M.svg",
+      "pdf": "downloads/CHF50M.pdf"
+    },
+    {
+      "label": "ORD25",
+      "name": "ORD25",
+      "title": "Pistole 25 m \u00b7 Ordonnanz / Feldschiessen",
+      "training_distance_m": 7.5,
+      "training_distance_display": "7.5 m",
+      "reference_distance": 25,
+      "reference_unit": "m",
+      "bounds_mm": [
+        37.5,
+        19.28,
+        135.0,
+        228.44
+      ],
+      "angular_width_0_01_moa": 6188,
+      "derived_distance_m": 7.4997298509256165,
+      "marker_ids": [
+        15,
+        40,
+        11
+      ],
+      "marker_positions_mm": [
+        [
+          10.0,
+          10.0
+        ],
+        [
+          176.0,
+          10.0
+        ],
+        [
+          10.0,
+          245.4
+        ]
+      ],
+      "marker_size_mm": 24,
+      "protected_regions_mm": [
+        [
+          6.0,
+          6.0,
+          38.0,
+          38.0
+        ],
+        [
+          172.0,
+          6.0,
+          204.0,
+          38.0
+        ],
+        [
+          6.0,
+          241.4,
+          38.0,
+          273.4
+        ],
+        [
+          150.0,
+          219.4,
+          200.0,
+          269.4
+        ]
+      ],
+      "layout": "full",
+      "frame_mm": [
+        210,
+        279.4
+      ],
+      "page_mm": [
+        210,
+        297
+      ],
+      "frame_offset_mm": [
+        0,
+        8.8
+      ],
+      "qr_version": 14,
+      "qr_error_correction": "M",
+      "qr_module_mm": 0.6172839506172839,
+      "qr_quiet_zone_modules": 4,
+      "url_bytes": 348,
+      "json_bytes": 505,
+      "compressed_bytes": 242,
+      "compressor": "zopfli100",
+      "url": "https://doxyo.com/t#v0.5.eNpVTjV6HUEMvsp8qlWItbPtSxdOFzKXZsa7e0GmRvSTHuAYRvj-65M4IOzB-FfTCbnLgKxOhCKD2X-EXRiDhwHhfiL9hQPAQPjaZnoLVW6bZp7aLKY5iLKpkrfM8CbBMeHdRdts3Zgts0YVfWWw9a6rkMMkVzdO8Qr5UouQRm-bYolQ9BKLavdyFaPB2qbiZCqyPFFjZrxylpdLbJ5anpqvYX_gP_6FC8BEJidCVnXCIKpChQ8fcHOqQoX3D7gSVSl8Qj8QeBlXg_8IRzD-5Zm-lox1rCLmRhPrbGb5cuG-XM5hFEc4uIJx8nh6Bt-WZgc",
+      "definition": {
+        "n": "ORD25",
+        "b": [
+          3750,
+          1928,
+          13500,
+          22844
+        ],
+        "a": 6188,
+        "z": [
+          [
+            "d",
+            6,
+            "M 3750 6331 C 4573 4631 6007 3305 7765 2616 C 9523 1928 11477 1928 13235 2616 C 14993 3305 16427 4631 17250 6331 L 17250 20369 C 16427 22069 14993 23395 13235 24084 C 11477 24772 9523 24772 7765 24084 C 6007 23395 4573 22069 3750 20369 Z"
+          ],
+          [
+            "s",
+            7,
+            10500,
+            13350,
+            6000,
+            6000,
+            0
+          ],
+          [
+            "s",
+            8,
+            10500,
+            13350,
+            4500,
+            4500,
+            0
+          ],
+          [
+            "s",
+            9,
+            10500,
+            13350,
+            3000,
+            3000,
+            0
+          ],
+          [
+            "s",
+            10,
+            10500,
+            13350,
+            1500,
+            1500,
+            0
+          ]
+        ],
+        "m": [
+          1000,
+          1000,
+          17600,
+          1000,
+          1000,
+          24540
+        ],
+        "q": [
+          15000,
+          21940
+        ],
+        "r": 25,
+        "du": "m"
+      },
+      "geometry_source": "Preserved nominal scoring geometry",
+      "source_kind": "swiss",
+      "source_name": "ORD25",
+      "calibration_mm": 50,
+      "svg": "svg/ORD25.svg",
+      "scorecard": "scorecards/ORD25.svg",
+      "pdf": "downloads/ORD25.pdf",
+      "black_size_mm": [
+        135.0,
+        228.0
+      ],
+      "stadium_stroke_mm": 0.6,
+      "typography": "Boxy geometric numerals with square ends and chamfered corners; 34 mm nominal design box, original target units",
+      "masking_note": "Full 7.5 m ORD25 retains 135 x 228 mm black artwork. The relocated QR protection overlaps its lower-right corner and part of the outer six-zone; the protected portion scores zero. The 5 m variant has no such scoring overlap."
+    },
+    {
+      "label": "ORD25-5m",
+      "name": "ORD5M",
+      "title": "Pistole 25 m \u00b7 Ordonnanz / Feldschiessen",
+      "training_distance_m": 5,
+      "training_distance_display": "5 m",
+      "reference_distance": 25,
+      "reference_unit": "m",
+      "bounds_mm": [
+        60.0,
+        57.35,
+        90.0,
+        152.3
+      ],
+      "angular_width_0_01_moa": 6188,
+      "derived_distance_m": 4.999819900617077,
+      "marker_ids": [
+        36,
+        21,
+        11
+      ],
+      "marker_positions_mm": [
+        [
+          10.0,
+          10.0
+        ],
+        [
+          176.0,
+          10.0
+        ],
+        [
+          10.0,
+          245.4
+        ]
+      ],
+      "marker_size_mm": 24,
+      "protected_regions_mm": [
+        [
+          6.0,
+          6.0,
+          38.0,
+          38.0
+        ],
+        [
+          172.0,
+          6.0,
+          204.0,
+          38.0
+        ],
+        [
+          6.0,
+          241.4,
+          38.0,
+          273.4
+        ],
+        [
+          150.0,
+          219.4,
+          200.0,
+          269.4
+        ]
+      ],
+      "layout": "full",
+      "frame_mm": [
+        210,
+        279.4
+      ],
+      "page_mm": [
+        210,
+        297
+      ],
+      "frame_offset_mm": [
+        0,
+        8.8
+      ],
+      "qr_version": 14,
+      "qr_error_correction": "M",
+      "qr_module_mm": 0.6172839506172839,
+      "qr_quiet_zone_modules": 4,
+      "url_bytes": 343,
+      "json_bytes": 504,
+      "compressed_bytes": 238,
+      "compressor": "zopfli100",
+      "url": "https://doxyo.com/t#v0.5.eNpVT7VahTEMfZV-ma80Wllhw9lwHXHXd6cN134_zZEk33AHFXb213ULRnAB1TDnEVxCPbIY40gT66h0hEocT0Zw2yj0gn-SzaF_SFS66rGr1CtYvPIElXQE169QW8YIvpriCJ5hhN2qPYBZV7OaywVlwJOHrvJ5wHOneJVPA146JQv-GkY2gq3Qtw3ZEoa1YColJOXcPlGDmXKnUjAs0viSG6-JNSCi4gwSE88VyFJmRhRR_E9DXTTZnB0wRyrd4CosaDQzU4ySZqkUNVpXeTuKxdSHmEGfba7xkd3se8wybdnsEE5Ofv8AzwZlxA",
+      "definition": {
+        "n": "ORD5M",
+        "a": 6188,
+        "b": [
+          6000,
+          5735,
+          9000,
+          15230
+        ],
+        "m": [
+          1000,
+          1000,
+          17600,
+          1000,
+          1000,
+          24540
+        ],
+        "q": [
+          15000,
+          21940
+        ],
+        "r": 25,
+        "du": "m",
+        "z": [
+          [
+            "s",
+            10,
+            10500,
+            13350,
+            1000,
+            1000,
+            0
+          ],
+          [
+            "s",
+            9,
+            10500,
+            13350,
+            2000,
+            2000,
+            0
+          ],
+          [
+            "s",
+            8,
+            10500,
+            13350,
+            3000,
+            3000,
+            0
+          ],
+          [
+            "s",
+            7,
+            10500,
+            13350,
+            4000,
+            4000,
+            0
+          ],
+          [
+            "d",
+            6,
+            "M 6000 8671 C 6549 7538 7505 6653 8677 6194 C 9849 5735 11151 5735 12323 6194 C 13495 6653 14451 7538 15000 8671 L 15000 18029 C 14451 19162 13495 20047 12323 20506 C 11151 20965 9849 20965 8677 20506 C 7505 20047 6549 19162 6000 18029 Z"
+          ]
+        ]
+      },
+      "geometry_source": "Preserved nominal scoring geometry",
+      "source_kind": "swiss",
+      "source_name": "ORD25",
+      "calibration_mm": 50,
+      "svg": "svg/ORD25-5m.svg",
+      "scorecard": "scorecards/ORD25-5m.svg",
+      "pdf": "downloads/ORD25-5m.pdf",
+      "black_size_mm": [
+        90.0,
+        152.0
+      ],
+      "stadium_stroke_mm": 0.4,
+      "typography": "Boxy geometric numerals with square ends and chamfered corners; 34 mm nominal design box, original target units",
+      "masking_note": "Full 7.5 m ORD25 retains 135 x 228 mm black artwork. The relocated QR protection overlaps its lower-right corner and part of the outer six-zone; the protected portion scores zero. The 5 m variant has no such scoring overlap."
+    },
+    {
+      "label": "PP25",
+      "name": "PP25",
+      "title": "Pistole 25 m \u00b7 Precision PP10 / ISSF",
+      "training_distance_m": 7.5,
+      "training_distance_display": "7.5 m",
+      "reference_distance": 25,
+      "reference_unit": "m",
+      "bounds_mm": [
+        22.5,
+        55.5,
+        165.0,
+        156.0
+      ],
+      "angular_width_0_01_moa": 7563,
+      "derived_distance_m": 7.499740037679823,
+      "marker_ids": [
+        10,
+        3,
+        34
+      ],
+      "marker_positions_mm": [
+        [
+          10.0,
+          10.0
+        ],
+        [
+          176.0,
+          10.0
+        ],
+        [
+          10.0,
+          245.4
+        ]
+      ],
+      "marker_size_mm": 24,
+      "protected_regions_mm": [
+        [
+          6.0,
+          6.0,
+          38.0,
+          38.0
+        ],
+        [
+          172.0,
+          6.0,
+          204.0,
+          38.0
+        ],
+        [
+          6.0,
+          241.4,
+          38.0,
+          273.4
+        ],
+        [
+          150.0,
+          219.4,
+          200.0,
+          269.4
+        ]
+      ],
+      "layout": "full",
+      "frame_mm": [
+        210,
+        279.4
+      ],
+      "page_mm": [
+        210,
+        297
+      ],
+      "frame_offset_mm": [
+        0,
+        8.8
+      ],
+      "qr_version": 11,
+      "qr_error_correction": "M",
+      "qr_module_mm": 0.7246376811594203,
+      "qr_quiet_zone_modules": 4,
+      "url_bytes": 231,
+      "json_bytes": 377,
+      "compressed_bytes": 154,
+      "compressor": "zopfli100",
+      "url": "https://doxyo.com/t#v0.5.eNpUzQEGAzEQheG7PACDySQv6eYUC8BatC3AlpZCe_kmYcXAI_mG_4cnKtbVCMEVtTBHwQ11M6MK2SZkaltm1V1wNAvaP8aU3Ha-LTH1q1e_4vgJy_h5oxoFjw8qDgi-7WLDHRIk6AjESJXCXhlgDnLhCdGD6gnJAY0n0EGajewgzkbxMBsXBzYbi4MwG0Gd9Mb-Xy0ACAdPpg",
+      "definition": {
+        "n": "PP25",
+        "a": 7563,
+        "b": [
+          2250,
+          5550,
+          16500,
+          15600
+        ],
+        "m": [
+          1000,
+          1000,
+          17600,
+          1000,
+          1000,
+          24540
+        ],
+        "q": [
+          15000,
+          21940
+        ],
+        "r": 25,
+        "du": "m",
+        "z": [
+          [
+            "c",
+            1,
+            10500,
+            13350,
+            7500
+          ],
+          [
+            "c",
+            2,
+            10500,
+            13350,
+            6750
+          ],
+          [
+            "c",
+            3,
+            10500,
+            13350,
+            6000
+          ],
+          [
+            "c",
+            4,
+            10500,
+            13350,
+            5250
+          ],
+          [
+            "c",
+            5,
+            10500,
+            13350,
+            4500
+          ],
+          [
+            "c",
+            6,
+            10500,
+            13350,
+            3750
+          ],
+          [
+            "c",
+            7,
+            10500,
+            13350,
+            3000
+          ],
+          [
+            "c",
+            8,
+            10500,
+            13350,
+            2250
+          ],
+          [
+            "c",
+            9,
+            10500,
+            13350,
+            1500
+          ],
+          [
+            "c",
+            10,
+            10500,
+            13350,
+            750
+          ]
+        ]
+      },
+      "geometry_source": "Preserved nominal scoring geometry",
+      "source_kind": "swiss",
+      "source_name": "PP25",
+      "calibration_mm": 50,
+      "svg": "svg/PP25.svg",
+      "scorecard": "scorecards/PP25.svg",
+      "pdf": "downloads/PP25.pdf"
+    },
+    {
+      "label": "RF25",
+      "name": "RF25",
+      "title": "Pistole 25 m \u00b7 Rapid-fire ISSF",
+      "training_distance_m": 7.5,
+      "training_distance_display": "7.5 m",
+      "reference_distance": 25,
+      "reference_unit": "m",
+      "bounds_mm": [
+        22.5,
+        55.5,
+        165.0,
+        156.0
+      ],
+      "angular_width_0_01_moa": 7563,
+      "derived_distance_m": 7.499740037679823,
+      "marker_ids": [
+        4,
+        8,
+        45
+      ],
+      "marker_positions_mm": [
+        [
+          10.0,
+          10.0
+        ],
+        [
+          176.0,
+          10.0
+        ],
+        [
+          10.0,
+          245.4
+        ]
+      ],
+      "marker_size_mm": 24,
+      "protected_regions_mm": [
+        [
+          6.0,
+          6.0,
+          38.0,
+          38.0
+        ],
+        [
+          172.0,
+          6.0,
+          204.0,
+          38.0
+        ],
+        [
+          6.0,
+          241.4,
+          38.0,
+          273.4
+        ],
+        [
+          150.0,
+          219.4,
+          200.0,
+          269.4
+        ]
+      ],
+      "layout": "full",
+      "frame_mm": [
+        210,
+        279.4
+      ],
+      "page_mm": [
+        210,
+        297
+      ],
+      "frame_offset_mm": [
+        0,
+        8.8
+      ],
+      "qr_version": 10,
+      "qr_error_correction": "M",
+      "qr_module_mm": 0.7692307692307693,
+      "qr_quiet_zone_modules": 4,
+      "url_bytes": 208,
+      "json_bytes": 278,
+      "compressed_bytes": 137,
+      "compressor": "zopfli100",
+      "url": "https://doxyo.com/t#v0.5.eNpVyrWhxDAQBNBeJjZKHul7C_gFXHhM4TFj77dSYPbSmzd2EAz-DZHgBRmNsEJSFvqx0Gotteo4SaLUPTC-gb8e2LoB3wOWDbgeONsAe-CpMEmwhIyM0QNJNRcTdIoJFhBPZxNsNVQWQWLxrhlDMRWrED-GFOOlrOPlBDFMsL5CsMX3ByImOyA",
+      "definition": {
+        "n": "RF25",
+        "z": [
+          [
+            "c",
+            10,
+            10500,
+            13350,
+            1500
+          ],
+          [
+            "c",
+            9,
+            10500,
+            13350,
+            2700
+          ],
+          [
+            "c",
+            8,
+            10500,
+            13350,
+            3900
+          ],
+          [
+            "c",
+            7,
+            10500,
+            13350,
+            5100
+          ],
+          [
+            "c",
+            6,
+            10500,
+            13350,
+            6300
+          ],
+          [
+            "c",
+            5,
+            10500,
+            13350,
+            7500
+          ]
+        ],
+        "b": [
+          2250,
+          5550,
+          16500,
+          15600
+        ],
+        "a": 7563,
+        "m": [
+          1000,
+          1000,
+          17600,
+          1000,
+          1000,
+          24540
+        ],
+        "q": [
+          15000,
+          21940
+        ],
+        "r": 25,
+        "du": "m"
+      },
+      "geometry_source": "Preserved nominal scoring geometry",
+      "source_kind": "swiss",
+      "source_name": "RF25",
+      "calibration_mm": 50,
+      "svg": "svg/RF25.svg",
+      "scorecard": "scorecards/RF25.svg",
+      "pdf": "downloads/RF25.pdf"
+    },
+    {
+      "label": "NRAB6",
+      "name": "NRAB6",
+      "title": "NRA B-6 - 50 yard slow fire",
+      "training_distance_m": 4.572,
+      "training_distance_display": "5 yd",
+      "reference_distance": 50,
+      "reference_unit": "yd",
+      "bounds_mm": [
+        79.51,
+        108.01,
+        50.98,
+        50.98
+      ],
+      "angular_width_0_01_moa": 3833,
+      "derived_distance_m": 4.572254494176785,
+      "marker_ids": [
+        17,
+        44,
+        43
+      ],
+      "marker_positions_mm": [
+        [
+          10.0,
+          10.0
+        ],
+        [
+          176.0,
+          10.0
+        ],
+        [
+          10.0,
+          245.4
+        ]
+      ],
+      "marker_size_mm": 24,
+      "protected_regions_mm": [
+        [
+          6.0,
+          6.0,
+          38.0,
+          38.0
+        ],
+        [
+          172.0,
+          6.0,
+          204.0,
+          38.0
+        ],
+        [
+          6.0,
+          241.4,
+          38.0,
+          273.4
+        ],
+        [
+          150.0,
+          219.4,
+          200.0,
+          269.4
+        ]
+      ],
+      "layout": "full",
+      "frame_mm": [
+        210,
+        279.4
+      ],
+      "page_mm": [
+        210,
+        297
+      ],
+      "frame_offset_mm": [
+        0,
+        8.8
+      ],
+      "qr_version": 11,
+      "qr_error_correction": "M",
+      "qr_module_mm": 0.7246376811594203,
+      "qr_quiet_zone_modules": 4,
+      "url_bytes": 219,
+      "json_bytes": 286,
+      "compressed_bytes": 145,
+      "compressor": "zopfli100",
+      "url": "https://doxyo.com/t#v0.5.eNqqVspTslLyC3J0AlQx1QYMgEBwl6u_uMdhlLiVcdfZ4wa8nwQI-ig2WSsYoDRj9irKRBXPnJ6lLZjcISUprxIDKb_dOO_YFiweLP-8aH5eliiegg0KDiMIRt_peOc2MYR4UXpS1Fr_sMq5LU8gVICmxDcQa8Dm-AZSDVDDG8gVEOned2UFOBPb7csN17Q91w",
+      "definition": {
+        "n": "NRAB6",
+        "a": 3833,
+        "b": [
+          7951,
+          10801,
+          5098,
+          5098
+        ],
+        "m": [
+          1000,
+          1000,
+          17600,
+          1000,
+          1000,
+          24540
+        ],
+        "q": [
+          15000,
+          21940
+        ],
+        "r": 50,
+        "u": "yd",
+        "du": "yd",
+        "z": [
+          [
+            "c",
+            5,
+            10500,
+            13350,
+            2499
+          ],
+          [
+            "c",
+            6,
+            10500,
+            13350,
+            1880
+          ],
+          [
+            "c",
+            7,
+            10500,
+            13350,
+            1397
+          ],
+          [
+            "c",
+            8,
+            10500,
+            13350,
+            1016
+          ],
+          [
+            "c",
+            9,
+            10500,
+            13350,
+            704
+          ],
+          [
+            "c",
+            10,
+            10500,
+            13350,
+            427
+          ]
+        ]
+      },
+      "geometry_source": "NRA rule dimensions; newly typeset practice reproduction; X ring displayed as score 10",
+      "source_kind": "nra",
+      "source_name": "B-6",
+      "calibration_mm": 50.8,
+      "svg": "svg/NRAB6.svg",
+      "scorecard": "scorecards/NRAB6.svg",
+      "pdf": "downloads/NRAB6.pdf"
+    },
+    {
+      "label": "NRAB8",
+      "name": "NRAB8",
+      "title": "NRA B-8 - 25 yard timed and rapid fire",
+      "training_distance_m": 4.572,
+      "training_distance_display": "5 yd",
+      "reference_distance": 25,
+      "reference_unit": "yd",
+      "bounds_mm": [
+        54.51,
+        83.01,
+        100.98,
+        100.98
+      ],
+      "angular_width_0_01_moa": 7593,
+      "derived_distance_m": 4.571704941379623,
+      "marker_ids": [
+        43,
+        20,
+        48
+      ],
+      "marker_positions_mm": [
+        [
+          10.0,
+          10.0
+        ],
+        [
+          176.0,
+          10.0
+        ],
+        [
+          10.0,
+          245.4
+        ]
+      ],
+      "marker_size_mm": 24,
+      "protected_regions_mm": [
+        [
+          6.0,
+          6.0,
+          38.0,
+          38.0
+        ],
+        [
+          172.0,
+          6.0,
+          204.0,
+          38.0
+        ],
+        [
+          6.0,
+          241.4,
+          38.0,
+          273.4
+        ],
+        [
+          150.0,
+          219.4,
+          200.0,
+          269.4
+        ]
+      ],
+      "layout": "full",
+      "frame_mm": [
+        210,
+        279.4
+      ],
+      "page_mm": [
+        210,
+        297
+      ],
+      "frame_offset_mm": [
+        0,
+        8.8
+      ],
+      "qr_version": 11,
+      "qr_error_correction": "M",
+      "qr_module_mm": 0.7246376811594203,
+      "qr_quiet_zone_modules": 4,
+      "url_bytes": 221,
+      "json_bytes": 288,
+      "compressed_bytes": 147,
+      "compressor": "zopfli100",
+      "url": "https://doxyo.com/t#v0.5.eNqqVspTslLyC3J0AlQp1wYQwCAUQHf5NQWEEBvl3Mpz19nPLQ68n0AYoDTNm1BSFhLmnF5vm9BHiZaVcLyHmhiC7G7GTKJqTD7n3KYnhAo02gdiBS5m_4ZUA6t7Q65APMc3CFeSTNttwgSlKcxMryeGT_l8nDfPbcLikbLnRPJzskRxRhhtUHAYgfAuLjfjXT5I",
+      "definition": {
+        "n": "NRAB8",
+        "b": [
+          5451,
+          8301,
+          10098,
+          10098
+        ],
+        "a": 7593,
+        "z": [
+          [
+            "c",
+            5,
+            10500,
+            13350,
+            4999
+          ],
+          [
+            "c",
+            6,
+            10500,
+            13350,
+            3759
+          ],
+          [
+            "c",
+            7,
+            10500,
+            13350,
+            2794
+          ],
+          [
+            "c",
+            8,
+            10500,
+            13350,
+            2032
+          ],
+          [
+            "c",
+            9,
+            10500,
+            13350,
+            1407
+          ],
+          [
+            "c",
+            10,
+            10500,
+            13350,
+            853
+          ]
+        ],
+        "m": [
+          1000,
+          1000,
+          17600,
+          1000,
+          1000,
+          24540
+        ],
+        "q": [
+          15000,
+          21940
+        ],
+        "r": 25,
+        "du": "yd",
+        "u": "yd"
+      },
+      "geometry_source": "NRA rule dimensions; newly typeset practice reproduction; X ring displayed as score 10",
+      "source_kind": "nra",
+      "source_name": "B-8",
+      "calibration_mm": 50.8,
+      "svg": "svg/NRAB8.svg",
+      "scorecard": "scorecards/NRAB8.svg",
+      "pdf": "downloads/NRAB8.pdf"
+    }
+  ]
+}
