@@ -1,0 +1,260 @@
+[
+  {
+    "id": "01-rifle-300m-A5-A10",
+    "title": "Gewehr 300 m · A5 / A10",
+    "distance_m": 300,
+    "training_distance_m": 7.5,
+    "scale": 0.025,
+    "page_mm": [
+      210,
+      297
+    ],
+    "printed_envelope_mm": [
+      37.5,
+      41.25
+    ],
+    "geometry_status": "analytic",
+    "details": "Minimum federal backing 1500 × 1650 mm. Scoring diameter 1000 mm; black diameter 600 mm. Fine diameters 100…1000 mm in 100 mm steps; A5 boundaries 200,400,600,800,1000 mm. At 7.5 m: field 25 mm, black 15 mm. Backing is white and therefore merges into A4. Stroke widths 0.65/1.2 mm full size are display choices, not specified by Annex 2. Numerals newly typeset.",
+    "sources": [
+      "https://www.fedlex.admin.ch/eli/cc/2004/1/20230101/de (Annex 2 §1, p.32)"
+    ],
+    "bonus": false,
+    "page_clipping_mm": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "sha256": "f1e1ac981458c3be64aa18227c5d662dcb31d3d86892ca8ab07638a44e304a1b"
+  },
+  {
+    "id": "02-rifle-300m-B4-B10-facsimile",
+    "title": "Gewehr 300 m · B4 / B10",
+    "distance_m": 300,
+    "training_distance_m": 7.5,
+    "scale": 0.025,
+    "page_mm": [
+      210,
+      297
+    ],
+    "printed_envelope_mm": [
+      37.5,
+      41.25
+    ],
+    "geometry_status": "source-facsimile",
+    "details": "Unretouched Kuert 1269 × 1273 image mapped to its stated 1010 × 1010 mm product face (25.25 × 25.25 mm printed), within the federal minimum 1500 × 1650 mm backing. Added light-grey backing uses #d9d9d9, a display choice because the rule supplies no numeric colour. Nominal field 25 mm; bust 11.25 × 12.5 mm. Fine scoring diameters 100…1000 mm; B4: inner circle 200 mm, bust zone, 700 mm circle, 1000 mm circle. Original colour fields and contours retained. Source pixels and tiny axis normalization prevent a claim of exact contour metrology.",
+    "sources": [
+      "https://www.fedlex.admin.ch/eli/cc/2004/1/20230101/de (Annex 2 §2, p.33)",
+      "https://kuert.ch/products/scheibenbild-b-tarn-komb-4er-10er"
+    ],
+    "bonus": false,
+    "page_clipping_mm": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "sha256": "4a80557578cb00cc776fb52b35e4997f9fea907b746aee536813a51e37af38dd"
+  },
+  {
+    "id": "03-pistol-50m-P4-P10",
+    "title": "Pistole 50 m · P4 / P10",
+    "distance_m": 50,
+    "training_distance_m": 7.5,
+    "scale": 0.15,
+    "page_mm": [
+      210,
+      297
+    ],
+    "printed_envelope_mm": [
+      150,
+      150
+    ],
+    "geometry_status": "analytic",
+    "details": "Official name P, not A. White field 1000 × 1000 mm, black diameter 200 mm. P10 diameters 100…1000 mm in 100 mm steps. P4 boundaries 200,300,600,1000 mm (federal drawing). Printed field 150 mm; black 30 mm; P10 ten 15 mm. Source product 1010 mm paper includes trim margin, not an enlarged scoring field. Numerals newly typeset; 0.65/1.2 mm full-size lines are rendering choices.",
+    "sources": [
+      "https://www.fedlex.admin.ch/eli/cc/2004/1/20230101/de (Annex 2 §3, p.34)"
+    ],
+    "bonus": false,
+    "page_clipping_mm": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "sha256": "045977fdac84ff4eb025f19e59cf3fb3e41f573a2fa2789a0499bf4093a2a874"
+  },
+  {
+    "id": "04-pistol-50m-B5-B10-facsimile",
+    "title": "Pistole 50 m · B5 / B10",
+    "distance_m": 50,
+    "training_distance_m": 7.5,
+    "scale": 0.15,
+    "page_mm": [
+      210,
+      297
+    ],
+    "printed_envelope_mm": [
+      151.5,
+      151.5
+    ],
+    "geometry_status": "source-facsimile",
+    "details": "Unretouched Kuert 800 × 796 artwork mapped to stated 1010 × 1010 mm product face. Nominal federal field 1000 mm; bust 450 × 500 mm. Printed face 151.5 mm; nominal field 150 mm; nominal bust 67.5 × 75 mm. B5 boundaries: 150 mm circle, 300 mm circle, bust zone, 700 mm circle, 1000 mm circle; B10 uses ten concentric rings. Original colour/contour retained, including photograph/scan distortion; resolution ~134 ppi. Not a production-master vector or independently exact scoring geometry.",
+    "sources": [
+      "https://www.fedlex.admin.ch/eli/cc/2004/1/20230101/de (Annex 2 §4, pp.34–35)",
+      "https://kuert.ch/products/scheibenbild-b-kombination-5er-10er"
+    ],
+    "bonus": false,
+    "page_clipping_mm": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "sha256": "75bfb9d03ae52f6aa3989c101dc2d9a9494f13335d91d56417ddec2499e2380c"
+  },
+  {
+    "id": "05-pistol-50m-Morgarten-F100-5-facsimile",
+    "title": "Pistole 50 m · Morgarten F100/5",
+    "distance_m": 50,
+    "training_distance_m": 7.5,
+    "scale": 0.15,
+    "page_mm": [
+      210,
+      297
+    ],
+    "printed_envelope_mm": [
+      75,
+      154.5
+    ],
+    "geometry_status": "source-facsimile",
+    "details": "PROVISIONAL source facsimile. Original Kromer no.18 (2026), p.9, item 753.09 stencil, no tracing or ellipse replacement. Figure envelope normalized to 450 × 1000 mm; printed 67.5 × 150 mm, card 75 × 154.5 mm (500 × 1030 mm). Native bbox 783 × 1755 pixels. Manufacturer outline/rings preserved. Centre measured from this artwork is about 406 mm above figure bottom, not the secondary 450 mm claim. Inner oval measures approximately 98 × 158 mm after envelope normalization, not a verified 100 × 150 mm. No primary dimensioned scoring master located; do not use for automatic scoring.",
+    "sources": [
+      "https://kromerprint.ch/wp-content/uploads/2026/10/kromer-shooting_nr18_katalog_shooting_sport_Web_20261026.pdf (printed p.9 / PDF p.11)",
+      "https://kuert.ch/products/morgartenscheibe-f-100-5-papier-ovale-kreise",
+      "https://hmps.ch/wp-content/uploads/2025/08/Schiessbuechlein-2025.pdf (p.7)"
+    ],
+    "bonus": false,
+    "page_clipping_mm": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "sha256": "74040d70b768d4204715c083861a0e80e22309560d8dd3fdf4e3ed82ba4a1ad4"
+  },
+  {
+    "id": "06-pistol-25m-Ordonnanz",
+    "title": "Pistole 25 m · Ordonnanz / Feldschiessen",
+    "distance_m": 25,
+    "training_distance_m": 7.5,
+    "scale": 0.3,
+    "page_mm": [
+      210,
+      297
+    ],
+    "printed_envelope_mm": [
+      141,
+      234
+    ],
+    "geometry_status": "analytic",
+    "details": "Federal rectangle 450 × 760 mm with approximately 10 mm white border (470 × 780 mm card). Capsule zones, not ellipses: 10=100 × 150; 9=200 × 300; 8=300 × 450; 7=400 × 600; 6=500 × 750 mm. Semicircular ends have radius width/2; straight section height minus width. Printed black 135 × 228 mm; card 141 × 234 mm. The 150 mm-wide nominal zone 6 is intrinsically clipped by the 135 mm black width: maximum 7.5 mm each side. A4 adds no clipping. Lines 1 mm full size / 0.3 mm printed; numerals newly typeset.",
+    "sources": [
+      "https://www.fedlex.admin.ch/eli/cc/2004/1/20230101/de (Annex 2 §5, pp.35–36)"
+    ],
+    "bonus": false,
+    "page_clipping_mm": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "sha256": "b0e9b8673c76acb58135ccd26b5d94a1bb2d666406d45e5bae6250364f276cac"
+  },
+  {
+    "id": "07-pistol-25m-ISSF-precision",
+    "title": "Pistole 25 m · Precision PP10 / ISSF",
+    "distance_m": 25,
+    "training_distance_m": 7.5,
+    "scale": 0.3,
+    "page_mm": [
+      210,
+      297
+    ],
+    "printed_envelope_mm": [
+      165,
+      156
+    ],
+    "geometry_status": "analytic",
+    "details": "Ring diameters 10→1: 50,100,150,200,250,300,350,400,450,500 mm; inner ten 25 mm. Black 200 mm. Printed diameters 15…150 mm in 15 mm steps; inner ten 7.5 mm; black 60 mm. 0.35 mm original ring stroke (allowed 0.2–0.5), printed 0.105 mm. Card 550 × 520 mm (permitted height up to 550 mm). SVG circles use nominal diameters at stroke centreline; stroke edge lies within published dimensional tolerances. All shapes analytic; numerals newly typeset. 2023 and October 2026 tables agree.",
+    "sources": [
+      "https://www.issf-sports.org/rules (§6.3.4.5, pp.198–199)",
+      "https://www.swissshooting.ch/media/ywyfqzts/20231129_d_issf_6-technische-regeln-deutsch-inkl-dresscode.pdf (pp.17–18)"
+    ],
+    "bonus": false,
+    "page_clipping_mm": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "sha256": "2a27d91aaa3a499625d53d63cb92e69a93c76077ef4090b2d009f691e9faea14"
+  },
+  {
+    "id": "08-pistol-25m-ISSF-rapid",
+    "title": "Pistole 25 m · Rapid-fire ISSF",
+    "distance_m": 25,
+    "training_distance_m": 7.5,
+    "scale": 0.3,
+    "page_mm": [
+      210,
+      297
+    ],
+    "printed_envelope_mm": [
+      165,
+      156
+    ],
+    "geometry_status": "analytic",
+    "details": "Ring diameters 10→5: 100,180,260,340,420,500 mm; inner ten 50 mm. Black 500 mm. White aiming bars 125 × 5 mm each. Printed diameters 30,54,78,102,126,150 mm; inner ten 15 mm; bars 37.5 × 1.5 mm. 0.75 mm original ring stroke (allowed 0.5–1.0), printed 0.225 mm. Card 550 × 520 mm (permitted height up to 550 mm). SVG circles use nominal diameters at stroke centreline; stroke edge lies within published dimensional tolerances. All shapes analytic; numerals newly typeset. 2023 and October 2026 tables agree.",
+    "sources": [
+      "https://www.issf-sports.org/rules (§6.3.4.4, pp.198–199)",
+      "https://www.swissshooting.ch/media/ywyfqzts/20231129_d_issf_6-technische-regeln-deutsch-inkl-dresscode.pdf (pp.17–18)"
+    ],
+    "bonus": false,
+    "page_clipping_mm": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "sha256": "9b8e18f73b72f1f7f0cf7e28b2937cf0bfd9290978580cef5b23d64eeb245d26"
+  },
+  {
+    "id": "09-bonus-pistol-50m-ISSF-precision",
+    "title": "Pistole 50 m · PP10 / ISSF (additional distance)",
+    "distance_m": 50,
+    "training_distance_m": 7.5,
+    "scale": 0.15,
+    "page_mm": [
+      210,
+      297
+    ],
+    "printed_envelope_mm": [
+      82.5,
+      78
+    ],
+    "geometry_status": "analytic",
+    "details": "Bonus distance preset, not a ninth distinct target design. Same ISSF geometry as 25 m precision at half its printed size. Printed black 30 mm, ten 7.5 mm, outer scoring diameter 75 mm, inner ten 3.75 mm; card 82.5 × 78 mm. Distinct from Swiss P10 despite the same printed black diameter. Same circle-centreline convention and typography as 07.",
+    "sources": [
+      "https://www.issf-sports.org/rules (§6.3.4.5)"
+    ],
+    "bonus": true,
+    "page_clipping_mm": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "sha256": "fb4c3114bbed3ce25f49fab6810ec35d6a8de25c44e1de51bf0e19e3cfc7eff5"
+  }
+]

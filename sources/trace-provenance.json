@@ -1,0 +1,289 @@
+[
+  {
+    "source": "sources/extracted/kromer-F100-5-colour.png",
+    "source_sha256": "98efcebcbfdf104403e8a5133f00a72ba1fb2257aa413e10753778b41287982c",
+    "source_pixels": [
+      784,
+      1756
+    ],
+    "figure_print_mm": [
+      67.5,
+      150
+    ],
+    "original_distance_m": 50,
+    "method": "yellow-stroke centre lines, smoothed and fitted with piecewise cubic Beziers; no ellipse assumption",
+    "curve_metrics": [
+      {
+        "component": 2,
+        "closed": false,
+        "segments": 7,
+        "distance_to_nearest_yellow_pixel_px_p95": 0.59588031015865,
+        "distance_to_nearest_yellow_pixel_px_max": 0.6968507726658496
+      },
+      {
+        "component": 4,
+        "closed": true,
+        "segments": 12,
+        "distance_to_nearest_yellow_pixel_px_p95": 0.6007700059862988,
+        "distance_to_nearest_yellow_pixel_px_max": 0.6964585077097202
+      },
+      {
+        "component": 6,
+        "closed": true,
+        "segments": 12,
+        "distance_to_nearest_yellow_pixel_px_p95": 0.6053812425555535,
+        "distance_to_nearest_yellow_pixel_px_max": 0.6981024387363859
+      },
+      {
+        "component": 8,
+        "closed": true,
+        "segments": 9,
+        "distance_to_nearest_yellow_pixel_px_p95": 0.6033966446767596,
+        "distance_to_nearest_yellow_pixel_px_max": 0.7017123384145522
+      },
+      {
+        "component": 16,
+        "closed": false,
+        "segments": 2,
+        "distance_to_nearest_yellow_pixel_px_p95": 0.5843506845668547,
+        "distance_to_nearest_yellow_pixel_px_max": 0.7033499043044639
+      }
+    ],
+    "source_pixel_print_mm": [
+      0.08620689655172414,
+      0.08547008547008547
+    ],
+    "centre_reference_source_px": [
+      393.0,
+      1042.0
+    ],
+    "notes": [
+      "Existing source envelope mapping retained. Centre not shifted to conflicting secondary dimensions.",
+      "Curve metrics are distance to the nearest original yellow stroke pixel, not error against an official master.",
+      "Line weight is a display choice; numerals re-typeset, printer marks omitted."
+    ],
+    "id": "05-Morgarten-F5-vector",
+    "status": "bitmap-derived-training-approximation",
+    "created": "2026-11-08",
+    "page_mm": [
+      210,
+      297
+    ],
+    "training_distance_m": 7.5,
+    "officially_certified": false,
+    "olts_measurement": {
+      "json_bytes": 2029,
+      "zlib_bytes": 903,
+      "example_url_bytes": 1233,
+      "limit_bytes": 412,
+      "fits_example_url": false,
+      "example_host_only": true
+    },
+    "olts_definition": {
+      "n": "CHF50M",
+      "r": 50,
+      "z": [
+        [
+          "d",
+          1,
+          "M 8841 7350 L 8841 10196 L 8746 10222 L 8254 10265 L 7970 10316 L 7125 10564 L 7125 22350 L 13875 22350 L 13875 12931 L 13841 12931 L 13823 12906 L 13823 12837 L 13875 12829 L 13875 10538 L 13806 10538 L 13547 10444 L 12875 10265 L 12582 10222 L 11987 10171 L 11987 7350 Z"
+        ],
+        [
+          "d",
+          2,
+          "M 7125 12870 L 7142 12870 C 7311 12541 7499 12222 7713 11921 C 7839 11743 7974 11571 8117 11406 C 8210 11297 8308 11191 8412 11091 C 8567 10938 8740 10804 8926 10691 C 10112 9922 11825 10200 12721 11283 C 12896 11466 13058 11663 13205 11869 C 13446 12199 13676 12540 13851 12909 L 13875 12909 L 13875 20309 L 13853 20309 C 13050 21365 11842 22277 10451 22257 C 9090 22211 7968 21273 7139 20280 L 7125 20280 Z"
+        ],
+        [
+          "d",
+          5,
+          "M 11251 16256 C 11237 16681 11077 17144 10712 17404 C 10632 17431 10550 17466 10464 17450 C 10395 17440 10334 17405 10275 17370 C 9926 17098 9768 16642 9775 16221 C 9786 15800 9950 15305 10365 15096 C 10417 15084 10467 15068 10521 15071 C 10591 15070 10658 15095 10722 15121 C 11076 15349 11207 15801 11258 16181 C 11260 16206 11250 16230 11251 16256 Z"
+        ],
+        [
+          "d",
+          4,
+          "M 12449 16261 C 12424 17154 12105 18061 11465 18706 C 11307 18837 11134 18953 10940 19024 C 10805 19074 10661 19095 10517 19099 C 10333 19095 10153 19044 9986 18972 C 9832 18893 9695 18785 9568 18669 C 8951 18029 8571 17145 8574 16258 C 8587 15277 8992 14250 9782 13632 C 9874 13571 9970 13516 10074 13478 C 10217 13434 10366 13402 10517 13405 C 10644 13409 10768 13437 10887 13479 C 11022 13531 11148 13603 11267 13683 C 12020 14307 12437 15297 12449 16261 Z"
+        ],
+        [
+          "d",
+          3,
+          "M 13647 16264 C 13647 17763 13025 19285 11888 20288 C 11738 20406 11569 20498 11396 20578 C 11118 20688 10820 20743 10521 20744 C 10196 20734 9868 20674 9575 20532 C 9352 20430 9160 20272 8976 20113 C 7963 19100 7380 17682 7375 16258 C 7380 14796 7944 13300 9041 12299 C 9198 12177 9362 12061 9541 11973 C 9846 11836 10178 11742 10516 11753 C 10825 11756 11131 11833 11412 11958 C 11614 12046 11786 12185 11955 12323 C 13029 13331 13648 14801 13647 16264 Z"
+        ]
+      ]
+    }
+  },
+  {
+    "source": "sources/artwork/scheibenbild-b-tarn-komb-4er-10er.jpg",
+    "source_sha256": "1953df4c83487f0a31a8bfb57704ae1474b5dab5d4c6a00069b5e6ec0661b8d7",
+    "source_pixels": [
+      1269,
+      1273
+    ],
+    "original_distance_m": 300,
+    "method": "colour-segmented bust contour simplified to polygon; nominal circular rings retained",
+    "bust_bbox_source_px": [
+      354,
+      256,
+      564,
+      632
+    ],
+    "bust_print_mm": [
+      11.25,
+      12.5
+    ],
+    "source_scoring_centre_px": [
+      636,
+      636
+    ],
+    "source_pixel_print_mm": [
+      0.019982238010657193,
+      0.019809825673534072
+    ],
+    "contour_distance_px_p95": 2.0342796538088885,
+    "contour_distance_px_max": 2.0604126688323623,
+    "notes": [
+      "Measured bust envelope normalized to the specified 450 × 500 mm. Position relative to centre comes from this source image.",
+      "Colour fields simplified; numerals re-typeset. Photo texture and printer marks omitted.",
+      "Residual is against extracted raster boundary; extraction and calibration uncertainty are additional."
+    ],
+    "id": "02-B300-vector",
+    "status": "bitmap-derived-training-approximation",
+    "created": "2026-11-08",
+    "page_mm": [
+      210,
+      297
+    ],
+    "training_distance_m": 7.5,
+    "officially_certified": false,
+    "olts_measurement": {
+      "json_bytes": 390,
+      "zlib_bytes": 175,
+      "example_url_bytes": 263,
+      "limit_bytes": 412,
+      "fits_example_url": true,
+      "example_host_only": true
+    },
+    "olts_definition": {
+      "n": "CHB300",
+      "r": 300,
+      "z": [
+        [
+          "c",
+          1,
+          10500,
+          14850,
+          1250
+        ],
+        [
+          "c",
+          2,
+          10500,
+          14850,
+          875
+        ],
+        [
+          "c",
+          4,
+          10500,
+          14850,
+          250
+        ],
+        [
+          "d",
+          3,
+          "M 10254 14097 L 10252 14325 L 10128 14343 L 10122 14351 L 10098 14351 L 10040 14371 L 10010 14371 L 10004 14351 L 10002 14382 L 9962 14394 L 9938 14414 L 9938 15343 L 10142 15347 L 10572 15341 L 10598 15347 L 11058 15347 L 11058 14402 L 10910 14351 L 10756 14321 L 10752 14097 Z"
+        ]
+      ]
+    }
+  },
+  {
+    "source": "sources/artwork/scheibenbild-b-kombination-5er-10er.jpg",
+    "source_sha256": "e26263d9f14fff981e12d9a76324933bd5d5df93613447dc582c28a8c45b1e9a",
+    "source_pixels": [
+      800,
+      796
+    ],
+    "original_distance_m": 50,
+    "method": "colour-segmented bust contour simplified to polygon; nominal circular rings retained",
+    "bust_bbox_source_px": [
+      222,
+      135,
+      356,
+      393
+    ],
+    "bust_print_mm": [
+      67.5,
+      75.0
+    ],
+    "source_scoring_centre_px": [
+      400,
+      398
+    ],
+    "source_pixel_print_mm": [
+      0.19014084507042253,
+      0.1913265306122449
+    ],
+    "contour_distance_px_p95": 0.9493921985385978,
+    "contour_distance_px_max": 1.275837974889809,
+    "notes": [
+      "Measured bust envelope normalized to the specified 450 × 500 mm. Position relative to centre comes from this source image.",
+      "Colour fields simplified; numerals re-typeset. Photo texture and printer marks omitted.",
+      "Residual is against extracted raster boundary; extraction and calibration uncertainty are additional."
+    ],
+    "id": "04-B50-vector",
+    "status": "bitmap-derived-training-approximation",
+    "created": "2026-11-08",
+    "page_mm": [
+      210,
+      297
+    ],
+    "training_distance_m": 7.5,
+    "officially_certified": false,
+    "olts_measurement": {
+      "json_bytes": 297,
+      "zlib_bytes": 158,
+      "example_url_bytes": 240,
+      "limit_bytes": 412,
+      "fits_example_url": true,
+      "example_host_only": true
+    },
+    "olts_definition": {
+      "n": "CHB50",
+      "r": 50,
+      "z": [
+        [
+          "c",
+          1,
+          10500,
+          14850,
+          7500
+        ],
+        [
+          "c",
+          2,
+          10500,
+          14850,
+          5250
+        ],
+        [
+          "c",
+          4,
+          10500,
+          14850,
+          2250
+        ],
+        [
+          "c",
+          5,
+          10500,
+          14850,
+          1125
+        ],
+        [
+          "d",
+          3,
+          "M 9017 9818 L 9017 11138 L 8979 11177 L 8485 11253 L 7154 11617 L 7135 11674 L 7154 17318 L 13846 17318 L 13865 11655 L 13542 11483 L 12021 11177 L 11945 9837 Z"
+        ]
+      ]
+    }
+  }
+]

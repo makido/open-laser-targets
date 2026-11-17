@@ -1,0 +1,40 @@
+{
+  "source_url": "https://competitions.nra.org/media/10579/2026-precisionpistol_rulebook.pdf",
+  "source_title": "NRA Precision Pistol Rules, revised February 2026",
+  "sections": [
+    "4.7",
+    "4.8",
+    "7 National Match Course"
+  ],
+  "pdf_pages_1_based": [
+    17,
+    20
+  ],
+  "diameters_in": {
+    "10": 3.36,
+    "9": 5.54,
+    "8": 8.0,
+    "7": 11.0,
+    "6": 14.8,
+    "5": 19.68
+  },
+  "x_diameter_in": 1.695,
+  "targets": {
+    "B-6": {
+      "title": "NRA B-6 - 50 yard slow fire",
+      "reference_yd": 50,
+      "black_outer_score": 8
+    },
+    "B-8": {
+      "title": "NRA B-8 - 25 yard timed and rapid fire",
+      "reference_yd": 25,
+      "black_outer_score": 9
+    }
+  },
+  "notes": [
+    "Same full-size scoring ring diameters; different black areas and reference distances.",
+    "Both generated variants use 5 yards as design distance.",
+    "X ring is shown visually; OLTS integer scoring assigns it 10, not a separate X-count.",
+    "Analytic practice reproductions; no official target seal or certification."
+  ]
+}
