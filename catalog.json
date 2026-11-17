@@ -231,6 +231,36 @@
         48
       ],
       "layout": "full"
+    },
+    {
+      "label": "UST25B",
+      "name": "UST25B",
+      "title": "Ustertag 25 m Auszahlungsstich",
+      "practice": "7.5 m",
+      "pdf": "downloads/UST25B.pdf",
+      "svg": "svg/UST25B.svg",
+      "scorecard": "scorecards/UST25B.svg",
+      "marker_ids": [
+        29,
+        24,
+        12
+      ],
+      "layout": "full"
+    },
+    {
+      "label": "UST50B",
+      "name": "UST50B",
+      "title": "Ustertag 50 m Gruppenwettkampf",
+      "practice": "7.5 m",
+      "pdf": "downloads/UST50B.pdf",
+      "svg": "svg/UST50B.svg",
+      "scorecard": "scorecards/UST50B.svg",
+      "marker_ids": [
+        45,
+        41,
+        15
+      ],
+      "layout": "full"
     }
   ]
 }

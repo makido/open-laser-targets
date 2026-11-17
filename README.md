@@ -2,9 +2,9 @@
 
 [Browse the target library](https://makido.github.io/open-laser-targets/)
 
-Fifteen Swiss and NRA laser-practice target editions with OLTS 0.5 definitions.
+Seventeen Swiss and NRA laser-practice target editions with OLTS 0.5 definitions.
 Each individual PDF contains a target and its scoring companion. The collection
-PDF contains the fifteen target pages only.
+PDF contains the seventeen target pages only.
 
 The catalogue works directly from disk and on GitHub Pages. It offers English,
 German or system language, plus bright, dark or system appearance. Explicit
@@ -20,6 +20,8 @@ on the selected target. Readers must support OLTS 0.5.
 ## Sources and verification
 
 See [dimensions, geometry notes and source references](reference.html).
+The Ustertag additions include a measured repair centre on a PP25 backing and
+a rectangular 50 m target with documented extrapolated outer zones.
 Traced silhouettes are identified in the catalogue; NRA sheets are practice
 reproductions. Physical printing and camera/app testing remain necessary.
 

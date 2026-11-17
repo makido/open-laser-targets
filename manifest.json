@@ -2492,6 +2492,332 @@
       "svg": "svg/NRAB8.svg",
       "scorecard": "scorecards/NRAB8.svg",
       "pdf": "downloads/NRAB8.pdf"
+    },
+    {
+      "label": "UST25B",
+      "name": "UST25B",
+      "title": "Ustertag 25 m Auszahlungsstich",
+      "training_distance_m": 7.5,
+      "reference_distance": 25,
+      "definition": {
+        "n": "UST25B",
+        "a": 7563,
+        "b": [
+          2250,
+          5550,
+          16500,
+          15600
+        ],
+        "m": [
+          1000,
+          1000,
+          17600,
+          1000,
+          1000,
+          24540
+        ],
+        "q": [
+          15000,
+          21940
+        ],
+        "r": 25,
+        "du": "m",
+        "z": [
+          [
+            "d",
+            5,
+            "M 9453 12186 L 11538 12186 L 11538 13515 C 11538 14094 11079 14580 10503 14580 C 10009 14580 9453 14165 9453 13635 Z"
+          ],
+          [
+            "d",
+            4,
+            "M 8136 10991 L 12866 10991 L 12866 15746 L 8136 15746 Z"
+          ],
+          [
+            "d",
+            3,
+            "M 6780 9630 L 14220 9630 L 14220 17070 L 6780 17070 Z"
+          ]
+        ]
+      },
+      "url": "https://doxyo.com/t#v0.5.eNplTTVahjEMvkqfzL80WhlhhQV3H3HXu5N-gi6RV9_gEiqsr66RLsAEjqEmNZ7ACdRdIo0TVR9oGn2qxbg_gQvnMDrQj2T9OQwSlaa6aSrtECwdcguVdAJnD1A9YwKvrtiFM5g4uByKKAckzBaWAqJy_vuxoobF8ZNYxO-Yit-aY8Cokfu7qbx5ZPpoQdPhZGMNO7A_6eql1WcH3VQKtkLK9u_TJOZfE_bPdwK3BEutyjg2ixD9eTDF5F8v6x_37398ApBjTus",
+      "qr_version": 13,
+      "url_bytes": 292,
+      "compressed_bytes": 200,
+      "json_bytes": 386,
+      "qr_module_mm": 0.6493506493506493,
+      "compressor": "zopfli100",
+      "marker_ids": [
+        29,
+        24,
+        12
+      ],
+      "geometry_basis": "248 mm outer square confirmed by user; inner shapes traced from rectified photograph. Centred over existing PP25 artwork; all backing outside square scores zero.",
+      "printed_dimensions": {
+        "outer_scoring_square_mm": [
+          74.4,
+          74.4
+        ],
+        "backing_outer_circle_diameter_mm": 150
+      },
+      "status": "Approved practice reproduction",
+      "mask_overlap": false,
+      "training_distance_display": "7.5 m",
+      "reference_unit": "m",
+      "bounds_mm": [
+        22.5,
+        55.5,
+        165.0,
+        156.0
+      ],
+      "angular_width_0_01_moa": 7563,
+      "derived_distance_m": 7.499740037679823,
+      "marker_positions_mm": [
+        [
+          10.0,
+          10.0
+        ],
+        [
+          176.0,
+          10.0
+        ],
+        [
+          10.0,
+          245.4
+        ]
+      ],
+      "marker_size_mm": 24,
+      "protected_regions_mm": [
+        [
+          6.0,
+          6.0,
+          38.0,
+          38.0
+        ],
+        [
+          172.0,
+          6.0,
+          204.0,
+          38.0
+        ],
+        [
+          6.0,
+          241.4,
+          38.0,
+          273.4
+        ],
+        [
+          150.0,
+          219.4,
+          200.0,
+          269.4
+        ]
+      ],
+      "layout": "full",
+      "frame_mm": [
+        210,
+        279.4
+      ],
+      "page_mm": [
+        210,
+        297
+      ],
+      "frame_offset_mm": [
+        0,
+        8.8
+      ],
+      "qr_error_correction": "M",
+      "qr_quiet_zone_modules": 4,
+      "geometry_source": "248 mm outer square confirmed by user; inner shapes traced from rectified photograph. Centred over existing PP25 artwork; all backing outside square scores zero.",
+      "geometry_origin": "ustertag",
+      "source_kind": "swiss",
+      "source_name": "UST25B",
+      "calibration_mm": 50,
+      "svg": "svg/UST25B.svg",
+      "scorecard": "scorecards/UST25B.svg",
+      "pdf": "downloads/UST25B.pdf"
+    },
+    {
+      "label": "UST50B",
+      "name": "UST50B",
+      "title": "Ustertag 50 m Gruppenwettkampf",
+      "training_distance_m": 7.5,
+      "reference_distance": 50,
+      "definition": {
+        "n": "UST50B",
+        "a": 5097,
+        "b": [
+          4240,
+          2945,
+          11120,
+          20810
+        ],
+        "m": [
+          1000,
+          1000,
+          17600,
+          1000,
+          1000,
+          24540
+        ],
+        "q": [
+          15400,
+          21940
+        ],
+        "r": 50,
+        "du": "m",
+        "z": [
+          [
+            "d",
+            1,
+            "M 4250 2955 L 15350 2955 L 15350 23745 L 4250 23745 Z"
+          ],
+          [
+            "d",
+            2,
+            "M 4805 4069 L 14795 4069 L 14795 22631 L 4805 22631 Z"
+          ],
+          [
+            "d",
+            3,
+            "M 5360 5182 L 14240 5182 L 14240 21518 L 5360 21518 Z"
+          ],
+          [
+            "d",
+            4,
+            "M 5915 6296 L 13685 6296 L 13685 20404 L 5915 20404 Z"
+          ],
+          [
+            "d",
+            5,
+            "M 6470 7410 L 13130 7410 L 13130 19290 L 6470 19290 Z"
+          ],
+          [
+            "d",
+            6,
+            "M 7025 8524 L 12575 8524 L 12575 18176 L 7025 18176 Z"
+          ],
+          [
+            "d",
+            7,
+            "M 7580 9638 L 12020 9638 L 12020 17062 L 7580 17062 Z"
+          ],
+          [
+            "d",
+            8,
+            "M 8135 10751 L 11465 10751 L 11465 15949 L 8135 15949 Z"
+          ],
+          [
+            "d",
+            9,
+            "M 8690 11865 L 10910 11865 L 10910 14835 L 8690 14835 Z"
+          ],
+          [
+            "d",
+            10,
+            "M 9245 12459 L 10355 12459 L 10355 14241 L 9245 14241 Z"
+          ]
+        ]
+      },
+      "url": "https://doxyo.com/t#v0.5.eNqqVspTslIKDQ4BlDEHmhXFMBjHX6UKoEjSJG0uYAC2F9h1sLkAw8Zg7N3XfFg5Bw6_nu8fo6fa6lu9GcVo9b3e7ipKTUKtMbNQE5pMR6sf6x8TUWN8hq_vtqhprj5zZZovHHj5yuOtPr7rbd1o9Wct7vVRG7f6UlSMioRZeS5s_YI-NKXyj9d6NPSCfpIVJY9MdMQJIt55CTNg9z17607FeAoS0ROEF5cwA3av6IOtuIRn0n2eIKSkS5gBu7fsXQeVoUxIuJ_AIZHCDNi9Zz9IrEwTzURsnMCThy9hBux-oLdJJbxPJCQn8CCXJcyA3c_sJ3crTMM4G1a_yEJjCUNgXwhc8KC1nW7ZUPBFOnsKQ2BfYMoTIWqFRS0QdbtIRXkJQyBPHL9_eAOc2g",
+      "qr_version": 16,
+      "url_bytes": 427,
+      "compressed_bytes": 301,
+      "json_bytes": 776,
+      "qr_module_mm": 0.5617977528089888,
+      "compressor": "zopfli100",
+      "marker_ids": [
+        45,
+        41,
+        15
+      ],
+      "geometry_basis": "Visible 10..5 proportions fitted to measured centre; user-authorised constant-width continuation for 4..1. Constant height continuation is an assumption. No official outer 1..4 drawing found.",
+      "printed_dimensions": {
+        "central_nine_mm": [
+          22.2,
+          29.7
+        ],
+        "outer_one_mm": [
+          111.0,
+          207.9
+        ]
+      },
+      "status": "Approved practice reproduction",
+      "mask_overlap": false,
+      "training_distance_display": "7.5 m",
+      "reference_unit": "m",
+      "bounds_mm": [
+        42.4,
+        29.45,
+        111.2,
+        208.1
+      ],
+      "angular_width_0_01_moa": 5097,
+      "derived_distance_m": 7.499910495771823,
+      "marker_positions_mm": [
+        [
+          10.0,
+          10.0
+        ],
+        [
+          176.0,
+          10.0
+        ],
+        [
+          10.0,
+          245.4
+        ]
+      ],
+      "marker_size_mm": 24,
+      "protected_regions_mm": [
+        [
+          6.0,
+          6.0,
+          38.0,
+          38.0
+        ],
+        [
+          172.0,
+          6.0,
+          204.0,
+          38.0
+        ],
+        [
+          6.0,
+          241.4,
+          38.0,
+          273.4
+        ],
+        [
+          154.0,
+          219.4,
+          204.0,
+          269.4
+        ]
+      ],
+      "layout": "full",
+      "frame_mm": [
+        210,
+        279.4
+      ],
+      "page_mm": [
+        210,
+        297
+      ],
+      "frame_offset_mm": [
+        0,
+        8.8
+      ],
+      "qr_error_correction": "M",
+      "qr_quiet_zone_modules": 4,
+      "geometry_source": "Visible 10..5 proportions fitted to measured centre; user-authorised constant-width continuation for 4..1. Constant height continuation is an assumption. No official outer 1..4 drawing found.",
+      "geometry_origin": "ustertag",
+      "source_kind": "swiss",
+      "source_name": "UST50B",
+      "calibration_mm": 50,
+      "svg": "svg/UST50B.svg",
+      "scorecard": "scorecards/UST50B.svg",
+      "pdf": "downloads/UST50B.pdf"
     }
   ]
 }

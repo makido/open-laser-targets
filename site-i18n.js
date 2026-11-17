@@ -1,6 +1,12 @@
 /* Offline catalogue translations. Printed artwork and downloadable definitions retain their original content. */
 (()=>{'use strict';
 const german={
+  "Ustertag 25 m Auszahlungsstich": "Ustertag 25 m Auszahlungsstich",
+  "Ustertag 50 m Gruppenwettkampf": "Ustertag 50 m Gruppenwettkampf",
+  "Repair centre on PP25 · 3–5 points": "Reparaturzentrum auf PP25 · 3–5 Punkte",
+  "Nested rectangles · 1–10 points": "Verschachtelte Rechtecke · 1–10 Punkte",
+  "Print both 50 mm calibration strips at their labelled size. Measured repair centre on the PP25 backing. Outside the square scores zero; inner contours are traced.": "Drucken Sie beide 50-mm-Kontrollstreifen in der angegebenen Grösse. Vermessenes Reparaturzentrum auf der PP25-Scheibe. Ausserhalb des Quadrats zählt jeder Treffer null; die inneren Konturen sind nachgezeichnet.",
+  "Print both 50 mm calibration strips at their labelled size. Measured centre with extrapolated outer rectangles. Black background and white outer labels; practice reproduction.": "Drucken Sie beide 50-mm-Kontrollstreifen in der angegebenen Grösse. Vermessenes Zentrum mit extrapolierten äusseren Rechtecken. Schwarzer Hintergrund mit weissen äusseren Zahlen; Nachbildung für das Training.",
   "Open Laser Target Library": "Open Laser Target Library",
   "Appearance": "Darstellung",
   "Dark": "Dunkel",

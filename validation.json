@@ -120,6 +120,22 @@
       "score_color_samples": 1789,
       "url_bytes": 221,
       "qr_version": 11
+    },
+    {
+      "target": "UST25B",
+      "schema_geometry_and_layout": "pass",
+      "svg_qr_and_markers": "pass",
+      "score_color_samples": 4837,
+      "url_bytes": 292,
+      "qr_version": 13
+    },
+    {
+      "target": "UST50B",
+      "schema_geometry_and_layout": "pass",
+      "svg_qr_and_markers": "pass",
+      "score_color_samples": 4014,
+      "url_bytes": 427,
+      "qr_version": 16
     }
   ],
   "unique_names_and_marker_triples": true,
@@ -128,7 +144,7 @@
   "pdf_render_checks": "passed on all target and companion pages",
   "physical_print_and_app_tests": "not performed",
   "letter_actual_size_checks": "passed: every target QR and three marker positions decoded after centred A4-to-Letter translation",
-  "individual_pdf_count": 15,
+  "individual_pdf_count": 17,
   "individual_pdf_pages": 2,
-  "collection_pages": 15
+  "collection_pages": 17
 }
