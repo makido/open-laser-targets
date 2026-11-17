@@ -1,0 +1,107 @@
+USTERTAG PRACTICE REPRODUCTIONS - 17 NOVEMBER 2026
+
+Two target families, each at 7.5 m practice distance, with a two-page PDF
+(target then scoring companion), vector SVG pair and OLTS 0.5 definition.
+The combined PDF contains only the two target pages. These reproductions were approved for the public library on 17 November 2026.
+
+P25 AUSZAHLUNGSSTICH / UST25B
+
+The user measured the outer printed scoring square at 248 x 248 mm, excluding
+the paper margin. At 7.5 / 25 scale, that square prints at 74.4 x 74.4 mm.
+The square is centred over the existing PP25 precision-target artwork. Its
+500 mm outer circle prints at 150 mm diameter; the 248 mm square obscures
+the centre. All exposed circular rings are artwork only and score zero.
+
+Scores: 3 inside the outer square, 4 inside the black field, 5 inside the coat
+of arms. Everything outside the 248 mm square is zero. Higher nested scores
+win, and a boundary counts inside its zone under OLTS point-score rules.
+
+The photo was rectified using the four printed border corners. The black
+field is traced as approximately 157.65 x 158.50 mm; the white/red shield is
+approximately 69.5 mm wide and 79.8 mm high. These internal measurements are
+photo-derived, not independent ruler measurements or official dimensions.
+The shield's lower curves are cubic fits to the visible contour. Maximum
+nearest-curve deviation from the selected photo samples is
+0.535 mm at original size (0.161 mm printed).
+That is a fitting residual, not a claim about total physical accuracy:
+perspective, paper curvature, annotation and ruler uncertainty remain.
+Shot holes, patches and handwritten dimension arrows are not reproduced.
+The red coat-of-arms stripes follow the photograph; lettering is newly typeset.
+
+P50 GRUPPENWETTKAMPF / UST50B
+
+The user measured the white/red nine-zone rectangle at 148 x 198 mm.
+The official full image depicts 5..10, and the organiser's text also lists
+only 0 and 5..10. The user clarified that 1..4 continue outside the shown area,
+then explicitly requested constant-width nested-rectangle extrapolation.
+This practice honours that instruction without treating the repair-centre edge
+as the scoring limit. The discrepancy with the website is not resolved.
+
+Visible 10..5 proportions suggest width increments of half the nine-zone
+width: 74 mm. The nine-zone height is the 198 mm measured anchor. The visible
+9..5 heights increase by roughly three quarters of that height: 148.5 mm.
+The ten-zone height is inferred as 60% of the nine height: 118.8 mm.
+These proportions are inferred from the small official raster image and
+checked visually against the repair-centre photo; only the 148 x 198 mm
+nine rectangle is directly measured. Zones 1..4 continue the inferred width
+AND height increments. The user confirmed that the black background extends
+through zone 1, with white boundary lines and white labels in the outer zones.
+
+Zone      Original-size practice mm       Printed at 7.5 m, mm
+10        74.00 x 118.80        11.100 x 17.820 
+ 9       148.00 x 198.00        22.200 x 29.700 
+ 8       222.00 x 346.50        33.300 x 51.975 
+ 7       296.00 x 495.00        44.400 x 74.250 
+ 6       370.00 x 643.50        55.500 x 96.525 
+ 5       444.00 x 792.00        66.600 x 118.800
+ 4       518.00 x 940.50        77.700 x 141.075
+ 3       592.00 x 1089.00       88.800 x 163.350
+ 2       666.00 x 1237.50       99.900 x 185.625
+ 1       740.00 x 1386.00       111.000 x 207.900
+
+The full one-zone is 740 x 1386 mm in this extrapolated model and prints at
+111 x 207.9 mm. The nine-zone prints at exactly 22.2 x 29.7 mm. Please verify
+the outer rectangles before treating the practice as a canonical match target.
+
+LAYOUT AND ENCODING
+
+Both use a 210 x 279.4 mm shared frame centred on A4 or US Letter at 100%.
+The delivered PDFs are A4; centred actual-size Letter rendering was checked.
+Each page includes horizontal and vertical 50 mm calibration segments.
+Three 24 mm ArUco markers retain 4 mm white surrounds. Each QR area is 50 mm
+including the quiet zone. No scoring region is clipped or hidden by symbols.
+The P50 centre is shifted to x=98 mm to leave its QR outside the outer zone.
+The P25 uses the full-page marker arrangement to clear its backing disc. The scoring companions contain coloured
+regions and boundaries; normal target lettering and coat-of-arms colour are
+omitted from the scoring regions themselves.
+
+Distinct practice IDs avoid reusing existing library identities:
+UST25B: QR version 13, 292 URL bytes, markers [29, 24, 12].
+UST50B: QR version 16, 427 URL bytes, markers [45, 41, 15].
+
+Format/layout checks, all zone-colour comparisons, outside-zero tests, unique
+identities, QR decoding and marker detection passed. All four final A4 pages
+and four centred Letter renditions were checked. Physical printing and app
+recognition have not been tested. Geometry provenance remains distinct from
+format conformance. A future geometry change needs a fresh target identity.
+
+SOURCES
+
+User photos IMG_6315.HEIC (P25) and IMG_6316.HEIC (P50), plus dimensions and
+scoring clarification confirmed in this conversation. Originals remain in
+Downloads; the package includes the rectified P25 photo for trace review.
+
+Official images and scoring page:
+https://www.ustertagschiessen.ch/Home/Ablauf
+https://www.ustertagschiessen.ch/img/various/25mTarget.jpg
+https://www.ustertagschiessen.ch/img/various/50mTarget2018.jpg
+
+Official 2026 programme: P50 group target on PDF page 7; P25 payout on page 9.
+https://www.ustertagschiessen.ch/schiessplan26_A4.pdf
+The separate P50 payout target on page 8 is not either of these practices.
+
+BUILD INPUTS
+
+Approved vector artwork and scoring definitions are preserved under
+target-library/ustertag. The main rebuild includes them without changing
+the reviewed geometry or QR identities. Original user photos remain local.

@@ -1,0 +1,297 @@
+{
+  "p25": {
+    "outer_square_mm": [
+      248,
+      248
+    ],
+    "rectification_source_corners_px": [
+      [
+        279.3600158691406,
+        812.1600341796875
+      ],
+      [
+        2802.239990234375,
+        869.760009765625
+      ],
+      [
+        2874.240234375,
+        3398.400146484375
+      ],
+      [
+        187.20001220703125,
+        3386.880126953125
+      ]
+    ],
+    "rectification_matrix": [
+      [
+        0.9823372380508901,
+        0.0351619594340746,
+        -302.98288458654724
+      ],
+      [
+        -0.02385187476698941,
+        1.044712546985815,
+        -841.8105177545332
+      ],
+      [
+        -7.921768830654208e-06,
+        2.5682392281573882e-05,
+        1.0
+      ]
+    ],
+    "rectified_pixels_per_mm": 10,
+    "black_polygon_mm": [
+      [
+        203.0,
+        45.5
+      ],
+      [
+        202.7,
+        203.9
+      ],
+      [
+        45.3,
+        203.8
+      ],
+      [
+        45.1,
+        45.2
+      ]
+    ],
+    "coat_polygon_mm": [
+      [
+        89.1,
+        85.0
+      ],
+      [
+        89.1,
+        133.5
+      ],
+      [
+        88.0,
+        133.7
+      ],
+      [
+        89.3,
+        133.9
+      ],
+      [
+        90.9,
+        141.4
+      ],
+      [
+        93.5,
+        147.0
+      ],
+      [
+        93.5,
+        147.8
+      ],
+      [
+        94.1,
+        148.0
+      ],
+      [
+        97.0,
+        152.6
+      ],
+      [
+        103.9,
+        158.6
+      ],
+      [
+        103.9,
+        159.8
+      ],
+      [
+        104.1,
+        159.3
+      ],
+      [
+        105.2,
+        159.3
+      ],
+      [
+        109.2,
+        161.6
+      ],
+      [
+        115.0,
+        163.7
+      ],
+      [
+        124.1,
+        165.0
+      ],
+      [
+        128.3,
+        164.9
+      ],
+      [
+        134.6,
+        163.6
+      ],
+      [
+        137.5,
+        162.5
+      ],
+      [
+        140.2,
+        160.8
+      ],
+      [
+        141.7,
+        160.5
+      ],
+      [
+        147.7,
+        155.8
+      ],
+      [
+        152.8,
+        149.5
+      ],
+      [
+        152.8,
+        148.7
+      ],
+      [
+        156.2,
+        142.2
+      ],
+      [
+        157.7,
+        137.0
+      ],
+      [
+        158.6,
+        129.5
+      ],
+      [
+        158.6,
+        85.4
+      ]
+    ],
+    "polygon_simplification_tolerance_mm": 0.3,
+    "note": "Perspective-corrected photo trace; internal dimensions inferred, not independently measured.",
+    "shield_path_source_mm": [
+      [
+        "M",
+        [
+          89.1,
+          85.2
+        ]
+      ],
+      [
+        "L",
+        [
+          158.6,
+          85.2
+        ]
+      ],
+      [
+        "L",
+        [
+          158.6,
+          129.5
+        ]
+      ],
+      [
+        "C",
+        [
+          158.6,
+          148.78621819651647,
+          143.2884759103468,
+          165.0,
+          124.1,
+          165.0
+        ]
+      ],
+      [
+        "C",
+        [
+          107.64031629643823,
+          165.0,
+          89.1,
+          151.16781618317958,
+          89.1,
+          133.5
+        ]
+      ],
+      [
+        "Z",
+        []
+      ]
+    ],
+    "shield_curve_fit_max_sample_distance_mm": 0.5350711100588702,
+    "shield_removed_noise": "Excluded two tiny concave print/glare defects; fitted lower quarters to visible sampled boundaries. Straight upper edges regularised.",
+    "black_square_source_mm": [
+      45.2,
+      45.35,
+      157.65,
+      158.5
+    ]
+  },
+  "p50": {
+    "measured_nine_mm": [
+      148,
+      198
+    ],
+    "width_step_mm": 74,
+    "height_step_mm": 148.5,
+    "ten_height_mm": 118.8,
+    "rectangles_mm": {
+      "1": [
+        740,
+        1386.0
+      ],
+      "2": [
+        666,
+        1237.5
+      ],
+      "3": [
+        592,
+        1089.0
+      ],
+      "4": [
+        518,
+        940.5
+      ],
+      "5": [
+        444,
+        792.0
+      ],
+      "6": [
+        370,
+        643.5
+      ],
+      "7": [
+        296,
+        495.0
+      ],
+      "8": [
+        222,
+        346.5
+      ],
+      "9": [
+        148,
+        198.0
+      ],
+      "10": [
+        74,
+        118.8
+      ]
+    },
+    "basis": "Visible 10..5 proportions fitted to measured centre; user-authorised constant-width continuation for 4..1. Constant height continuation is an assumption. No official outer 1..4 drawing found.",
+    "visible_black_field_score": 1,
+    "black_field_mm": [
+      740,
+      1386.0
+    ],
+    "outer_1_mm": [
+      740,
+      1386.0
+    ],
+    "outer_artwork_user_confirmed": "Black background through zone 1, with white boundaries and labels."
+  }
+}
